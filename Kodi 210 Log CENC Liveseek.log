@@ -1,0 +1,1016 @@
+﻿2024-06-01 17:42:39.305 T:5496     info <general>: -----------------------------------------------------------------------
+2024-06-01 17:42:39.305 T:5496     info <general>: Starting Kodi (21.0 (21.0.0) Git:20240406-60c4500054). Platform: Windows NT x86 64-bit
+2024-06-01 17:42:39.305 T:5496     info <general>: Using Release Kodi x64
+2024-06-01 17:42:39.305 T:5496     info <general>: Kodi compiled 2024-04-06 by MSVC 193431937 for Windows NT x86 64-bit version 10.0 (0x0A00000B)
+2024-06-01 17:42:39.305 T:5496     info <general>: Running on Windows 11 24H2, kernel: Windows NT x86 64-bit version 10.0.26100.1
+2024-06-01 17:42:39.305 T:5496     info <general>: FFmpeg version/source: 6.0.1-Kodi
+2024-06-01 17:42:39.306 T:5496     info <general>: Host CPU: Intel(R) Core(TM), 2 cores available
+2024-06-01 17:42:39.306 T:5496     info <general>: System has 4.0 GB of RAM installed
+2024-06-01 17:42:39.306 T:5496     info <general>: Desktop Resolution: 2035x1278 32Bit at 60Hz
+2024-06-01 17:42:39.306 T:5496     info <general>: Running with restricted rights
+2024-06-01 17:42:39.306 T:5496     info <general>: Aero is enabled
+2024-06-01 17:42:39.306 T:5496     info <general>: Display is not HDR capable or cannot be detected
+2024-06-01 17:42:39.306 T:5496     info <general>: special://xbmc/ is mapped to: C:\Kodi
+2024-06-01 17:42:39.306 T:5496     info <general>: special://xbmcbin/ is mapped to: C:\Kodi
+2024-06-01 17:42:39.306 T:5496     info <general>: special://xbmcbinaddons/ is mapped to: C:\Kodi/addons
+2024-06-01 17:42:39.306 T:5496     info <general>: special://masterprofile/ is mapped to: C:\Kodi\portable_data\userdata
+2024-06-01 17:42:39.306 T:5496     info <general>: special://home/ is mapped to: C:\Kodi\portable_data\
+2024-06-01 17:42:39.306 T:5496     info <general>: special://temp/ is mapped to: C:\Kodi\portable_data\cache
+2024-06-01 17:42:39.306 T:5496     info <general>: special://logpath/ is mapped to: C:\Kodi\portable_data\
+2024-06-01 17:42:39.306 T:5496     info <general>: Webserver extra whitelist paths: 
+2024-06-01 17:42:39.306 T:5496     info <general>: The executable running is: C:\Kodi\kodi.exe
+2024-06-01 17:42:39.310 T:5496     info <general>: Local hostname: DESKTOP-H5FG1Q3
+2024-06-01 17:42:39.310 T:5496     info <general>: Log File is located: C:\Kodi\portable_data\kodi.log
+2024-06-01 17:42:39.310 T:5496     info <general>: -----------------------------------------------------------------------
+2024-06-01 17:42:39.310 T:5496     info <general>: loading settings
+2024-06-01 17:42:39.311 T:5496     info <general>: special://profile/ is mapped to: special://masterprofile/
+2024-06-01 17:42:39.317 T:5496     info <general>: No settings file to load (special://xbmc/system/advancedsettings.xml)
+2024-06-01 17:42:39.317 T:5496     info <general>: No settings file to load (special://masterprofile/advancedsettings.xml)
+2024-06-01 17:42:39.317 T:5496     info <general>: Default Video Player: VideoPlayer
+2024-06-01 17:42:39.317 T:5496     info <general>: Default Audio Player: paplayer
+2024-06-01 17:42:39.317 T:5496     info <general>: Enabled debug logging due to GUI setting (2)
+2024-06-01 17:42:39.317 T:5496     info <general>: CMediaSourceSettings: loading media sources from special://masterprofile/sources.xml
+2024-06-01 17:42:39.318 T:5496    debug <general>: CSkinSettings: no <skinsettings> tag found
+2024-06-01 17:42:39.319 T:5496     info <general>: New Cache GUI Settings (replacement of cache in advancedsettings.xml) are:
+                                                     Buffer Mode: 4
+                                                     Memory Size: 20 MB
+                                                     Read Factor: 4.00 x 
+                                                     Chunk Size : 131072 bytes
+2024-06-01 17:42:39.319 T:5496     info <general>: creating subdirectories
+2024-06-01 17:42:39.319 T:5496     info <general>: userdata folder: special://masterprofile/
+2024-06-01 17:42:39.319 T:5496     info <general>: recording folder: 
+2024-06-01 17:42:39.319 T:5496     info <general>: screenshots folder: 
+2024-06-01 17:42:39.323 T:5496     info <general>: Running database version Addons33
+2024-06-01 17:42:39.334 T:5496    debug <general>: CAddonInfoBuilder::ParseXMLTypes: Binary addon found: peripheral.joystick
+2024-06-01 17:42:39.347 T:5496    debug <general>: CAddonInfoBuilder::ParseXMLTypes: Binary addon found: inputstream.adaptive
+2024-06-01 17:42:39.349 T:5496    debug <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: Addon 'metadata.album.universal' already present with version 3.1.4 at 'C:\Kodi\addons\metadata.album.universal\' replaced with version 3.1.9 at 'C:\Kodi\portable_data\addons\metadata.album.universal\'
+2024-06-01 17:42:39.350 T:5496    debug <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: Addon 'metadata.artists.universal' already present with version 4.3.3 at 'C:\Kodi\addons\metadata.artists.universal\' replaced with version 4.3.11 at 'C:\Kodi\portable_data\addons\metadata.artists.universal\'
+2024-06-01 17:42:39.350 T:5496    debug <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: Addon 'metadata.common.fanart.tv' already present with version 3.6.3 at 'C:\Kodi\addons\metadata.common.fanart.tv\' replaced with version 3.6.4 at 'C:\Kodi\portable_data\addons\metadata.common.fanart.tv\'
+2024-06-01 17:42:39.350 T:5496    debug <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: Addon 'metadata.generic.albums' already present with version 1.0.14 at 'C:\Kodi\addons\metadata.generic.albums\' replaced with version 1.0.18 at 'C:\Kodi\portable_data\addons\metadata.generic.albums\'
+2024-06-01 17:42:39.351 T:5496    debug <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: Addon 'metadata.themoviedb.org.python' already present with version 1.3.1+matrix.1 at 'C:\Kodi\addons\metadata.themoviedb.org.python\' replaced with version 3.0.1 at 'C:\Kodi\portable_data\addons\metadata.themoviedb.org.python\'
+2024-06-01 17:42:39.352 T:5496    debug <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: Addon 'metadata.tvshows.themoviedb.org.python' already present with version 1.6.0 at 'C:\Kodi\addons\metadata.tvshows.themoviedb.org.python\' replaced with version 1.6.6 at 'C:\Kodi\portable_data\addons\metadata.tvshows.themoviedb.org.python\'
+2024-06-01 17:42:39.352 T:5496    debug <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: Addon 'service.xbmc.versioncheck' already present with version 0.5.27+matrix.1 at 'C:\Kodi\addons\service.xbmc.versioncheck\' replaced with version 0.5.30+matrix.1 at 'C:\Kodi\portable_data\addons\service.xbmc.versioncheck\'
+2024-06-01 17:42:39.354 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: audioencoder.kodi.builtin.aac v1.0.2 installed
+2024-06-01 17:42:39.354 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: audioencoder.kodi.builtin.wma v1.0.2 installed
+2024-06-01 17:42:39.354 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.controller.default v1.0.42 installed
+2024-06-01 17:42:39.354 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.controller.keyboard v1.1.40 installed
+2024-06-01 17:42:39.354 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.controller.mouse v1.0.26 installed
+2024-06-01 17:42:39.354 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: game.controller.snes v1.0.40 installed
+2024-06-01 17:42:39.354 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: inputstream.adaptive v21.4.9 installed
+2024-06-01 17:42:39.354 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.audioengine v1.1.1 installed
+2024-06-01 17:42:39.355 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.filesystem v1.1.8 installed
+2024-06-01 17:42:39.355 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.general v1.0.5 installed
+2024-06-01 17:42:39.355 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.gui v5.15.0 installed
+2024-06-01 17:42:39.355 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.main v2.0.2 installed
+2024-06-01 17:42:39.355 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.network v1.0.4 installed
+2024-06-01 17:42:39.355 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.global.tools v1.0.4 installed
+2024-06-01 17:42:39.355 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.audiodecoder v4.0.0 installed
+2024-06-01 17:42:39.355 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.audioencoder v3.0.0 installed
+2024-06-01 17:42:39.355 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.game v3.0.2 installed
+2024-06-01 17:42:39.355 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.imagedecoder v3.0.1 installed
+2024-06-01 17:42:39.355 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.inputstream v3.3.0 installed
+2024-06-01 17:42:39.355 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.peripheral v3.0.2 installed
+2024-06-01 17:42:39.355 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.pvr v8.3.0 installed
+2024-06-01 17:42:39.356 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.screensaver v2.2.0 installed
+2024-06-01 17:42:39.356 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.vfs v3.0.1 installed
+2024-06-01 17:42:39.356 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.videocodec v2.1.0 installed
+2024-06-01 17:42:39.356 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.binary.instance.visualization v4.0.0 installed
+2024-06-01 17:42:39.356 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: kodi.resource v1.0.0 installed
+2024-06-01 17:42:39.356 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.album.universal v3.1.9 installed
+2024-06-01 17:42:39.356 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.artists.universal v4.3.11 installed
+2024-06-01 17:42:39.356 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.common.allmusic.com v3.2.2 installed
+2024-06-01 17:42:39.356 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.common.fanart.tv v3.6.4 installed
+2024-06-01 17:42:39.356 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.common.musicbrainz.org v2.2.4 installed
+2024-06-01 17:42:39.356 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.common.theaudiodb.com v2.0.3 installed
+2024-06-01 17:42:39.356 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.generic.albums v1.0.18 installed
+2024-06-01 17:42:39.356 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.generic.artists v1.0.18 installed
+2024-06-01 17:42:39.356 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.local v1.0.1 installed
+2024-06-01 17:42:39.356 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.themoviedb.org.python v3.0.1 installed
+2024-06-01 17:42:39.357 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: metadata.tvshows.themoviedb.org.python v1.6.6 installed
+2024-06-01 17:42:39.357 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: peripheral.joystick v21.1.11 installed
+2024-06-01 17:42:39.357 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: plugin.video.livetv v1.34.1 installed
+2024-06-01 17:42:39.357 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: repository.xbmc.org v3.4.0 installed
+2024-06-01 17:42:39.357 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: resource.images.weathericons.default v1.1.9 installed
+2024-06-01 17:42:39.357 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: resource.language.en_gb v2.0.2 installed
+2024-06-01 17:42:39.357 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: resource.uisounds.kodi v1.0.1 installed
+2024-06-01 17:42:39.357 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: screensaver.xbmc.builtin.black v1.0.34 installed
+2024-06-01 17:42:39.357 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: screensaver.xbmc.builtin.dim v1.0.66 installed
+2024-06-01 17:42:39.357 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.pil v5.1.0 installed
+2024-06-01 17:42:39.357 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: script.module.pycryptodome v3.4.3 installed
+2024-06-01 17:42:39.357 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: service.xbmc.versioncheck v0.5.30+matrix.1 installed
+2024-06-01 17:42:39.357 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: skin.estuary v4.0.0 installed
+2024-06-01 17:42:39.358 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: webinterface.default v19.x-2.4.8 installed
+2024-06-01 17:42:39.358 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.addon v21.0.0 installed
+2024-06-01 17:42:39.358 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.core v0.1.0 installed
+2024-06-01 17:42:39.358 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.gui v5.17.0 installed
+2024-06-01 17:42:39.358 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.json v13.5.0 installed
+2024-06-01 17:42:39.358 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.metadata v2.1.0 installed
+2024-06-01 17:42:39.358 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.python v3.0.1 installed
+2024-06-01 17:42:39.358 T:5496     info <general>: CAddonMgr::ADDON::CAddonMgr::FindAddons: xbmc.webinterface v1.0.0 installed
+2024-06-01 17:42:39.359 T:5496    debug <general>: CFavourites::Load - no system favourites found, skipping
+2024-06-01 17:42:39.359 T:5496    debug <general>: CFavourites::Load - no userdata favourites found, skipping
+2024-06-01 17:42:39.359 T:6148    debug <general>: Thread CWin32PowerStateWorker start, auto delete: false
+2024-06-01 17:42:39.360 T:5496    debug <general>: CWIN32Util::GetDriveStatus: Requesting status for drive \\.\D:.
+2024-06-01 17:42:39.360 T:5496    debug <general>: CWIN32Util::GetDriveStatus: Requesting media status for drive \\.\D:.
+2024-06-01 17:42:39.361 T:5496     info <general>: CKeyboardLayoutManager: loading keyboard layouts from special://xbmc/system/keyboardlayouts...
+2024-06-01 17:42:39.361 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Arabic QWERTY" successfully loaded
+2024-06-01 17:42:39.362 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Bulgarian ЯВЕРТЪ" successfully loaded
+2024-06-01 17:42:39.362 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Bulgarian АБВ" successfully loaded
+2024-06-01 17:42:39.362 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Chinese BasePY" successfully loaded
+2024-06-01 17:42:39.362 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Croatian QWERTY" successfully loaded
+2024-06-01 17:42:39.362 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Czech QWERTZ" successfully loaded
+2024-06-01 17:42:39.363 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Danish QWERTY" successfully loaded
+2024-06-01 17:42:39.363 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "English QWERTY" successfully loaded
+2024-06-01 17:42:39.363 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "English AZERTY" successfully loaded
+2024-06-01 17:42:39.363 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "English ABC" successfully loaded
+2024-06-01 17:42:39.363 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Estonian QWERTY" successfully loaded
+2024-06-01 17:42:39.363 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "French AZERTY" successfully loaded
+2024-06-01 17:42:39.363 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "German QWERTZ" successfully loaded
+2024-06-01 17:42:39.363 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "German ABC" successfully loaded
+2024-06-01 17:42:39.364 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Greek QWERTY" successfully loaded
+2024-06-01 17:42:39.364 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Hebrew QWERTY" successfully loaded
+2024-06-01 17:42:39.364 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Hebrew ABC" successfully loaded
+2024-06-01 17:42:39.364 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Hungarian QWERTZ" successfully loaded
+2024-06-01 17:42:39.364 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Icelandic QWERTY" successfully loaded
+2024-06-01 17:42:39.364 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Italian QWERTY" successfully loaded
+2024-06-01 17:42:39.364 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Italian ABC" successfully loaded
+2024-06-01 17:42:39.365 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Korean ㄱㄴㄷ" successfully loaded
+2024-06-01 17:42:39.365 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Lithuanian AZERTY" successfully loaded
+2024-06-01 17:42:39.365 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Lithuanian QWERTY" successfully loaded
+2024-06-01 17:42:39.365 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Norwegian QWERTY" successfully loaded
+2024-06-01 17:42:39.365 T:5496  warning <general>: CKeyboardLayoutManager: unable to open special://xbmc/system/keyboardlayouts/persian.xml
+2024-06-01 17:42:39.365 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Polish QWERTY" successfully loaded
+2024-06-01 17:42:39.366 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Portuguese (Brazil) QWERTY" successfully loaded
+2024-06-01 17:42:39.366 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Portuguese (Portugal) QWERTY" successfully loaded
+2024-06-01 17:42:39.367 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Romanian QWERTY" successfully loaded
+2024-06-01 17:42:39.367 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Russian ЙЦУКЕН" successfully loaded
+2024-06-01 17:42:39.367 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Russian АБВ" successfully loaded
+2024-06-01 17:42:39.367 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Silesian QWERTY" successfully loaded
+2024-06-01 17:42:39.367 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Slovak QWERTZ" successfully loaded
+2024-06-01 17:42:39.367 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Slovak QWERTY" successfully loaded
+2024-06-01 17:42:39.367 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Slovak ABC" successfully loaded
+2024-06-01 17:42:39.368 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Slovenian QWERTZ" successfully loaded
+2024-06-01 17:42:39.368 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Spanish QWERTY" successfully loaded
+2024-06-01 17:42:39.368 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Swedish QWERTY" successfully loaded
+2024-06-01 17:42:39.368 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Thai Kedmanee" successfully loaded
+2024-06-01 17:42:39.368 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Turkish QWERTY" successfully loaded
+2024-06-01 17:42:39.368 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Ukrainian ЙЦУКЕН" successfully loaded
+2024-06-01 17:42:39.368 T:5496    debug <general>: CKeyboardLayoutManager: keyboard layout "Ukrainian АБВ" successfully loaded
+2024-06-01 17:42:39.368 T:5496    debug <general>: CApplication::CApplication::CreateGUI - trying to init default windowing system
+2024-06-01 17:42:39.369 T:8296    debug <general>: Thread RemoteControl start, auto delete: false
+2024-06-01 17:42:39.369 T:8296     info <general>: Loading special://xbmc/system/IRSSmap.xml
+2024-06-01 17:42:39.369 T:8296     info <general>: * Adding remote mapping for device 'Microsoft MCE'
+2024-06-01 17:42:39.369 T:8296     info <general>: * Adding remote mapping for device 'Abstract'
+2024-06-01 17:42:39.370 T:8296    debug <general>: CIRTranslator::Load - no userdata IRSSmap.xml found, skipping
+2024-06-01 17:42:39.370 T:5496     info <general>: Primary mode: Generic Non-PnP Monitor #1: 2035x1278 @ 60.00Hz
+2024-06-01 17:42:39.370 T:5496     info <general>: Additional mode: Generic Non-PnP Monitor #1: 640x480 @ 60.00Hz
+2024-06-01 17:42:39.370 T:5496     info <general>: Additional mode: Generic Non-PnP Monitor #1: 800x600 @ 60.00Hz
+2024-06-01 17:42:39.370 T:5496     info <general>: Additional mode: Generic Non-PnP Monitor #1: 1024x768 @ 60.00Hz
+2024-06-01 17:42:39.370 T:5496     info <general>: Additional mode: Generic Non-PnP Monitor #1: 1152x864 @ 60.00Hz
+2024-06-01 17:42:39.370 T:5496     info <general>: Additional mode: Generic Non-PnP Monitor #1: 1280x960 @ 60.00Hz
+2024-06-01 17:42:39.370 T:5496     info <general>: Additional mode: Generic Non-PnP Monitor #1: 1400x1050 @ 60.00Hz
+2024-06-01 17:42:39.370 T:5496     info <general>: Additional mode: Generic Non-PnP Monitor #1: 1600x1200 @ 60.00Hz
+2024-06-01 17:42:39.371 T:5496     info <general>: Additional mode: Generic Non-PnP Monitor #1: 1920x1440 @ 60.00Hz
+2024-06-01 17:42:39.371 T:5496     info <general>: Additional mode: Generic Non-PnP Monitor #1: 2048x1536 @ 60.00Hz
+2024-06-01 17:42:39.371 T:5496     info <general>: Additional mode: Generic Non-PnP Monitor #1: 2560x1920 @ 60.00Hz
+2024-06-01 17:42:39.371 T:5496     info <general>: Additional mode: Generic Non-PnP Monitor #1: 854x480 @ 60.00Hz
+2024-06-01 17:42:39.371 T:5496     info <general>: Additional mode: Generic Non-PnP Monitor #1: 1280x720 @ 60.00Hz
+2024-06-01 17:42:39.371 T:5496     info <general>: Additional mode: Generic Non-PnP Monitor #1: 1366x768 @ 60.00Hz
+2024-06-01 17:42:39.371 T:5496     info <general>: Additional mode: Generic Non-PnP Monitor #1: 1920x1080 @ 60.00Hz
+2024-06-01 17:42:39.371 T:5496     info <general>: Additional mode: Generic Non-PnP Monitor #1: 2560x1440 @ 60.00Hz
+2024-06-01 17:42:39.371 T:5496     info <general>: Additional mode: Generic Non-PnP Monitor #1: 3840x2160 @ 60.00Hz
+2024-06-01 17:42:39.371 T:5496     info <general>: Additional mode: Generic Non-PnP Monitor #1: 1280x800 @ 60.00Hz
+2024-06-01 17:42:39.371 T:5496     info <general>: Additional mode: Generic Non-PnP Monitor #1: 1440x900 @ 60.00Hz
+2024-06-01 17:42:39.371 T:5496     info <general>: Additional mode: Generic Non-PnP Monitor #1: 1680x1050 @ 60.00Hz
+2024-06-01 17:42:39.372 T:5496     info <general>: Additional mode: Generic Non-PnP Monitor #1: 1920x1200 @ 60.00Hz
+2024-06-01 17:42:39.372 T:5496     info <general>: Additional mode: Generic Non-PnP Monitor #1: 2560x1600 @ 60.00Hz
+2024-06-01 17:42:39.372 T:5496     info <general>: Additional mode: Generic Non-PnP Monitor #1: 2880x1800 @ 60.00Hz
+2024-06-01 17:42:39.372 T:5496     info <general>: Additional mode: Generic Non-PnP Monitor #1: 3840x2400 @ 60.00Hz
+2024-06-01 17:42:39.372 T:5496     info <general>: Additional mode: Generic Non-PnP Monitor #1: 720x480 @ 60.00Hz
+2024-06-01 17:42:39.372 T:5496     info <general>: Additional mode: Generic Non-PnP Monitor #1: 720x576 @ 60.00Hz
+2024-06-01 17:42:39.372 T:5496     info <general>: Additional mode: Generic Non-PnP Monitor #1: 800x480 @ 60.00Hz
+2024-06-01 17:42:39.372 T:5496     info <general>: Additional mode: Generic Non-PnP Monitor #1: 1280x768 @ 60.00Hz
+2024-06-01 17:42:39.372 T:5496     info <general>: Additional mode: Generic Non-PnP Monitor #1: 1280x1024 @ 60.00Hz
+2024-06-01 17:42:39.372 T:5496     info <general>: Additional mode: Generic Non-PnP Monitor #1: 2035x1205 @ 60.00Hz
+2024-06-01 17:42:39.372 T:5496     info <general>: Additional mode: Generic Non-PnP Monitor #1: 2035x1278 @ 60.00Hz
+2024-06-01 17:42:39.373 T:5496     info <general>: CApplication::CApplication::CreateGUI - using the default windowing system
+2024-06-01 17:42:39.373 T:5496     info <general>: Checking resolution 15
+2024-06-01 17:42:39.375 T:8296    debug <general>: CIRServerSuite::Connect: connecting to: ::1:24000 ...
+2024-06-01 17:42:39.377 T:5496    debug <general>: DX::DeviceResources::HandleOutputChange: selected VMware SVGA 3D adapter. 
+2024-06-01 17:42:39.377 T:5496    debug <general>: CWinSystemWin32DX::InitHooks: Hooking into UserModeDriver on device \Registry\Machine\System\CurrentControlSet\Control\Video\{3481C657-F925-11EE-8229-806E6F6E6963}\0000. 
+2024-06-01 17:42:39.377 T:5496    debug <general>: CWinSystemWin32DX::InitHooks: D3D11 hook installed and activated.
+2024-06-01 17:42:39.380 T:5496    debug <general>: DX::DeviceResources::CreateDeviceResources: creating DirectX 11 device.
+2024-06-01 17:42:39.389 T:5496    debug <general>: HookOpenAdapter10_2: hook into pOpenData->pAdapterFuncs->pfnCreateDevice
+2024-06-01 17:42:39.393 T:5496    debug <general>: HookCreateDevice: hook into pCreateData->pDeviceFuncs->pfnCreateResource
+2024-06-01 17:42:39.393 T:5496     info <general>: DX::DeviceResources::CheckNV12SharedTexturesSupport: extended NV12 shared textures is NOT supported
+2024-06-01 17:42:39.393 T:5496     info <general>: DX::DeviceResources::CreateDeviceResources: device is created on adapter 'VMware SVGA 3D' with D3D_FEATURE_LEVEL_11_0
+2024-06-01 17:42:39.393 T:5496     info <general>: DX::DeviceResources::GetVideoDriverVersion: video driver version is unknown 9.17.4.2
+2024-06-01 17:42:39.395 T:5496    debug <general>: CWinSystemWin32::AdjustWindow: adjusting window if required.
+2024-06-01 17:42:39.396 T:5496    debug <general>: CWinSystemWin32::AdjustWindow: resizing due to size change (0,23,2035,1230)->(-8,-8,2043,1238)
+2024-06-01 17:42:39.429 T:5496    debug <general>: DX::DeviceResources::ReleaseBackBuffer: release buffers.
+2024-06-01 17:42:39.429 T:5496    debug <general>: DX::DeviceResources::SetLogicalSize: receive changing logical size to 2035.000000 x 1207.000000
+2024-06-01 17:42:39.429 T:5496    debug <general>: DX::DeviceResources::SetLogicalSize: change logical size to 2035.000000 x 1207.000000
+2024-06-01 17:42:39.429 T:5496    debug <general>: DX::DeviceResources::ResizeBuffers: resize buffers.
+2024-06-01 17:42:39.467 T:5496     info <general>: DX::DeviceResources::ResizeBuffers: 8 bit swapchain is used with 6 flip discard buffers and SDR output (format B8G8R8A8_UNORM)
+2024-06-01 17:42:39.467 T:5496    debug <general>: DX::DeviceResources::ResizeBuffers: end resize buffers.
+2024-06-01 17:42:39.467 T:5496    debug <general>: DX::DeviceResources::CreateBackBuffer: create buffers.
+2024-06-01 17:42:39.472 T:5496    debug <general>: CD3DVertexShader::CreateInternal: creating vertex shader.
+2024-06-01 17:42:39.472 T:5496    debug <general>: CD3DVertexShader::CreateInternal: creating input layout.
+2024-06-01 17:42:39.473 T:5496    debug <general>: CD3DPixelShader::CreateInternal: Create the pixel shader.
+2024-06-01 17:42:39.474 T:5496     info <general>: Skipped 8 duplicate messages..
+2024-06-01 17:42:39.474 T:5496     info <general>: RetroPlayer[RENDER]: Registering renderer factory for DirectX
+2024-06-01 17:42:39.474 T:5496    debug <general>: CWinSystemWin32::AdjustWindow: adjusting window if required.
+2024-06-01 17:42:39.474 T:5496    debug <general>: guilib: Fill viewport on change for solving rendering passes
+2024-06-01 17:42:39.551 T:5496     info <general>: load keymapping
+2024-06-01 17:42:39.552 T:5496     info <general>: Loading special://xbmc/system/keymaps/appcommand.xml
+2024-06-01 17:42:39.552 T:5496     info <general>: Loading special://xbmc/system/keymaps/customcontroller.AppleRemote.xml
+2024-06-01 17:42:39.554 T:5496     info <general>: Loading special://xbmc/system/keymaps/customcontroller.Harmony.xml
+2024-06-01 17:42:39.554 T:5496     info <general>: Loading special://xbmc/system/keymaps/customcontroller.SiriRemote.xml
+2024-06-01 17:42:39.555 T:5496     info <general>: Loading special://xbmc/system/keymaps/gamepad.xml
+2024-06-01 17:42:39.556 T:5496     info <general>: Loading special://xbmc/system/keymaps/joystick.xml
+2024-06-01 17:42:39.557 T:5496     info <general>: Loading special://xbmc/system/keymaps/keyboard.xml
+2024-06-01 17:42:39.560 T:5496     info <general>: Loading special://xbmc/system/keymaps/mouse.xml
+2024-06-01 17:42:39.560 T:5496     info <general>: Loading special://xbmc/system/keymaps/remote.xml
+2024-06-01 17:42:39.561 T:5496     info <general>: Loading special://xbmc/system/keymaps/touchscreen.xml
+2024-06-01 17:42:39.562 T:5496     info <general>: GUI format 2035x1207, Display Windowed
+2024-06-01 17:42:39.563 T:6220    debug <general>: Thread ActiveAE start, auto delete: false
+2024-06-01 17:42:39.563 T:7572    debug <general>: Thread AESink start, auto delete: false
+2024-06-01 17:42:39.584 T:6220     info <general>: Found 2 Lists of Devices
+2024-06-01 17:42:39.584 T:6220     info <general>: Enumerated DIRECTSOUND devices:
+2024-06-01 17:42:39.584 T:6220     info <general>:     Device 1
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_deviceName      : {B6846B76-4AE7-4541-9489-256C649DD8FA}
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_displayName     : Speakers - Speakers (High Definition Audio Device)
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_displayNameExtra: DIRECTSOUND: Speakers (High Definition Audio Device)
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_deviceType      : AE_DEVTYPE_PCM
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_channels        : FL, FR
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_sampleRates     : 48000
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_dataFormats     : AE_FMT_FLOAT
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_streamTypes     : No passthrough capabilities
+2024-06-01 17:42:39.584 T:6220     info <general>:     Device 2
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_deviceName      : default
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_displayName     : default
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_displayNameExtra: 
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_deviceType      : AE_DEVTYPE_PCM
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_channels        : FL, FR
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_sampleRates     : 48000
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_dataFormats     : AE_FMT_FLOAT
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_streamTypes     : No passthrough capabilities
+2024-06-01 17:42:39.584 T:6220     info <general>: Enumerated WASAPI devices:
+2024-06-01 17:42:39.584 T:6220     info <general>:     Device 1
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_deviceName      : {B6846B76-4AE7-4541-9489-256C649DD8FA}
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_displayName     : Speakers - Speakers (High Definition Audio Device)
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_displayNameExtra: WASAPI: Speakers (High Definition Audio Device)
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_deviceType      : AE_DEVTYPE_PCM
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_channels        : FL, FR
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_sampleRates     : 192000,96000,48000,44100
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_streamTypes     : No passthrough capabilities
+2024-06-01 17:42:39.584 T:6220     info <general>:     Device 2
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_deviceName      : default
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_displayName     : default
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_displayNameExtra: 
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_deviceType      : AE_DEVTYPE_PCM
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_channels        : FL, FR
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_sampleRates     : 192000,96000,48000,44100
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
+2024-06-01 17:42:39.584 T:6220     info <general>:         m_streamTypes     : No passthrough capabilities
+2024-06-01 17:42:39.584 T:7572     info <general>: CActiveAESink::OpenSink - initialize sink
+2024-06-01 17:42:39.584 T:7572    debug <general>: CActiveAESink::OpenSink - trying to open device DIRECTSOUND:default
+2024-06-01 17:42:39.593 T:7572    debug <general>: CAESinkDirectSound::Initialize: Using Window handle: 0x8030e
+2024-06-01 17:42:39.597 T:7572    debug <general>: CAESinkDirectSound::Initialize: secondary buffer created
+2024-06-01 17:42:39.598 T:7572    debug <general>: CAESinkDirectSound::Initialize: Initializing DirectSound with the following parameters:
+2024-06-01 17:42:39.598 T:7572    debug <general>:   Audio Device    : Speakers (High Definition Audio Device)
+2024-06-01 17:42:39.598 T:7572    debug <general>:   Sample Rate     : 44100
+2024-06-01 17:42:39.598 T:7572    debug <general>:   Sample Format   : AE_FMT_FLOAT
+2024-06-01 17:42:39.598 T:7572    debug <general>:   Bits Per Sample : 32
+2024-06-01 17:42:39.598 T:7572    debug <general>:   Valid Bits/Samp : 32
+2024-06-01 17:42:39.598 T:7572    debug <general>:   Channel Count   : 2
+2024-06-01 17:42:39.598 T:7572    debug <general>:   Block Align     : 8
+2024-06-01 17:42:39.598 T:7572    debug <general>:   Avg. Bytes Sec  : 352800
+2024-06-01 17:42:39.598 T:7572    debug <general>:   Samples/Block   : 32
+2024-06-01 17:42:39.598 T:7572    debug <general>:   Format cBSize   : 22
+2024-06-01 17:42:39.598 T:7572    debug <general>:   Channel Layout  : FL, FR
+2024-06-01 17:42:39.598 T:7572    debug <general>:   Channel Mask    : 3
+2024-06-01 17:42:39.598 T:7572    debug <general>:   Frames          : 661
+2024-06-01 17:42:39.598 T:7572    debug <general>:   Frame Size      : 8
+2024-06-01 17:42:39.598 T:7572    debug <general>: CActiveAESink::OpenSink - DIRECTSOUND Initialized:
+2024-06-01 17:42:39.598 T:7572    debug <general>:   Output Device : default
+2024-06-01 17:42:39.598 T:7572    debug <general>:   Sample Rate   : 44100
+2024-06-01 17:42:39.598 T:7572    debug <general>:   Sample Format : AE_FMT_FLOAT
+2024-06-01 17:42:39.598 T:7572    debug <general>:   Channel Count : 2
+2024-06-01 17:42:39.598 T:7572    debug <general>:   Channel Layout: FL, FR
+2024-06-01 17:42:39.598 T:7572    debug <general>:   Frames        : 661
+2024-06-01 17:42:39.598 T:7572    debug <general>:   Frame Size    : 8
+2024-06-01 17:42:39.598 T:6220  warning <general>: CActiveAE::ActiveAE::CActiveAE::StateMachine - signal: 0 from port: OutputControlPort not handled for state: 7
+2024-06-01 17:42:39.598 T:5496     info <general>: Skipped 1 duplicate messages..
+2024-06-01 17:42:39.598 T:5496     info <general>: CLangInfo: loading resource.language.en_gb language information...
+2024-06-01 17:42:39.599 T:5496    debug <general>: trying to set locale to en-us
+2024-06-01 17:42:39.629 T:5496     info <general>: global locale set to en-us
+2024-06-01 17:42:39.629 T:5496     info <general>: CLangInfo: loading resource.language.en_gb language strings...
+2024-06-01 17:42:39.630 T:5496    debug <general>: POParser: PO file has Win Style Line Endings. Converted in memory to Linux LF for file: resource://resource.language.en_gb/strings.po
+2024-06-01 17:42:39.634 T:5496    debug <general>: LocalizeStrings: loaded 4419 strings from file resource://resource.language.en_gb/strings.po
+2024-06-01 17:42:39.635 T:5496    debug <general>: POParser: PO file has Win Style Line Endings. Converted in memory to Linux LF for file: C:\Kodi\addons\audioencoder.kodi.builtin.aac\resources\language\resource.language.en_gb\strings.po
+2024-06-01 17:42:39.635 T:5496    debug <general>: LocalizeStrings: loaded 3 strings from file C:\Kodi\addons\audioencoder.kodi.builtin.aac\resources\language\resource.language.en_gb\strings.po
+2024-06-01 17:42:39.635 T:5496    debug <general>: POParser: PO file has Win Style Line Endings. Converted in memory to Linux LF for file: C:\Kodi\addons\audioencoder.kodi.builtin.wma\resources\language\resource.language.en_gb\strings.po
+2024-06-01 17:42:39.635 T:5496    debug <general>: LocalizeStrings: loaded 3 strings from file C:\Kodi\addons\audioencoder.kodi.builtin.wma\resources\language\resource.language.en_gb\strings.po
+2024-06-01 17:42:39.635 T:5496    debug <general>: POParser: PO file has Win Style Line Endings. Converted in memory to Linux LF for file: C:\Kodi\addons\game.controller.default\resources\language\resource.language.en_gb\strings.po
+2024-06-01 17:42:39.635 T:5496    debug <general>: LocalizeStrings: loaded 18 strings from file C:\Kodi\addons\game.controller.default\resources\language\resource.language.en_gb\strings.po
+2024-06-01 17:42:39.635 T:5496    debug <general>: POParser: PO file has Win Style Line Endings. Converted in memory to Linux LF for file: C:\Kodi\addons\game.controller.keyboard\resources\language\resource.language.en_gb\strings.po
+2024-06-01 17:42:39.635 T:5496    debug <general>: LocalizeStrings: loaded 141 strings from file C:\Kodi\addons\game.controller.keyboard\resources\language\resource.language.en_gb\strings.po
+2024-06-01 17:42:39.636 T:5496    debug <general>: POParser: PO file has Win Style Line Endings. Converted in memory to Linux LF for file: C:\Kodi\addons\game.controller.mouse\resources\language\resource.language.en_gb\strings.po
+2024-06-01 17:42:39.636 T:5496    debug <general>: LocalizeStrings: loaded 11 strings from file C:\Kodi\addons\game.controller.mouse\resources\language\resource.language.en_gb\strings.po
+2024-06-01 17:42:39.636 T:5496    debug <general>: POParser: PO file has Win Style Line Endings. Converted in memory to Linux LF for file: C:\Kodi\addons\game.controller.snes\resources\language\resource.language.en_gb\strings.po
+2024-06-01 17:42:39.636 T:5496    debug <general>: LocalizeStrings: loaded 13 strings from file C:\Kodi\addons\game.controller.snes\resources\language\resource.language.en_gb\strings.po
+2024-06-01 17:42:39.636 T:5496    debug <general>: POParser: PO file has Win Style Line Endings. Converted in memory to Linux LF for file: C:\Kodi\portable_data\addons\inputstream.adaptive\resources\language\resource.language.en_gb\strings.po
+2024-06-01 17:42:39.636 T:5496    debug <general>: LocalizeStrings: loaded 60 strings from file C:\Kodi\portable_data\addons\inputstream.adaptive\resources\language\resource.language.en_gb\strings.po
+2024-06-01 17:42:39.636 T:5496    debug <general>: LocalizeStrings: loaded 17 strings from file C:\Kodi\portable_data\addons\metadata.album.universal\resources\language\resource.language.en_gb\strings.po
+2024-06-01 17:42:39.637 T:5496    debug <general>: LocalizeStrings: loaded 32 strings from file C:\Kodi\portable_data\addons\metadata.artists.universal\resources\language\resource.language.en_gb\strings.po
+2024-06-01 17:42:39.637 T:5496    debug <general>: LocalizeStrings: loaded 17 strings from file C:\Kodi\portable_data\addons\metadata.generic.albums\resources\language\resource.language.en_gb\strings.po
+2024-06-01 17:42:39.637 T:5496    debug <general>: POParser: PO file has Win Style Line Endings. Converted in memory to Linux LF for file: C:\Kodi\addons\metadata.generic.artists\resources\language\resource.language.en_gb\strings.po
+2024-06-01 17:42:39.638 T:5496    debug <general>: LocalizeStrings: loaded 15 strings from file C:\Kodi\addons\metadata.generic.artists\resources\language\resource.language.en_gb\strings.po
+2024-06-01 17:42:39.638 T:5496    debug <general>: LocalizeStrings: loaded 20 strings from file C:\Kodi\portable_data\addons\metadata.themoviedb.org.python\resources\language\resource.language.en_gb\strings.po
+2024-06-01 17:42:39.638 T:5496    debug <general>: LocalizeStrings: loaded 34 strings from file C:\Kodi\portable_data\addons\metadata.tvshows.themoviedb.org.python\resources\language\resource.language.en_gb\strings.po
+2024-06-01 17:42:39.638 T:5496    debug <general>: LocalizeStrings: loaded 9 strings from file C:\Kodi\addons\peripheral.joystick\resources\language\resource.language.en_gb\strings.po
+2024-06-01 17:42:39.639 T:5496    debug <general>: POParser: PO file has Win Style Line Endings. Converted in memory to Linux LF for file: C:\Kodi\addons\repository.xbmc.org\resources\language\resource.language.en_gb\strings.po
+2024-06-01 17:42:39.639 T:5496    debug <general>: LocalizeStrings: loaded 0 strings from file C:\Kodi\addons\repository.xbmc.org\resources\language\resource.language.en_gb\strings.po
+2024-06-01 17:42:39.639 T:5496    debug <general>: POParser: PO file has Win Style Line Endings. Converted in memory to Linux LF for file: C:\Kodi\addons\screensaver.xbmc.builtin.dim\resources\language\resource.language.en_gb\strings.po
+2024-06-01 17:42:39.639 T:5496    debug <general>: LocalizeStrings: loaded 3 strings from file C:\Kodi\addons\screensaver.xbmc.builtin.dim\resources\language\resource.language.en_gb\strings.po
+2024-06-01 17:42:39.639 T:5496    debug <general>: LocalizeStrings: loaded 22 strings from file C:\Kodi\portable_data\addons\service.xbmc.versioncheck\resources\language\resource.language.en_gb\strings.po
+2024-06-01 17:42:39.640 T:7428    debug <general>: Thread JobWorker start, auto delete: true
+2024-06-01 17:42:39.640 T:7428    debug <general>: CDatabaseManager::Initialize, updating databases...
+2024-06-01 17:42:39.641 T:7428     info <general>: Running database version Addons33
+2024-06-01 17:42:39.641 T:7428     info <general>: Running database version ViewModes6
+2024-06-01 17:42:39.642 T:7428     info <general>: Running database version Textures13
+2024-06-01 17:42:39.643 T:7428     info <general>: Running database version MyMusic83
+2024-06-01 17:42:39.644 T:7428     info <general>: Running database version MyVideos131
+2024-06-01 17:42:39.645 T:7428     info <general>: Running database version TV44
+2024-06-01 17:42:39.645 T:7428     info <general>: Running database version Epg16
+2024-06-01 17:42:39.645 T:7428    debug <general>: CDatabaseManager::Initialize, updating databases... DONE
+2024-06-01 17:42:39.646 T:7372    debug <general>: Thread JobWorker start, auto delete: true
+2024-06-01 17:42:39.650 T:7572    debug <general>: CAESinkDirectSound::CheckPlayStatus: Resuming Playback
+2024-06-01 17:42:39.711 T:5496     info <general>: Unloaded skin
+2024-06-01 17:42:39.712 T:5496     info <general>:   load skin from: C:\Kodi\addons\skin.estuary\ (version: 4.0.0)
+2024-06-01 17:42:39.712 T:5496     info <general>:   load fonts for skin...
+2024-06-01 17:42:39.713 T:5496     info <general>: Loading skin includes from C:\Kodi\addons\skin.estuary\xml\Includes.xml
+2024-06-01 17:42:39.729 T:5496     info <general>: GUIFontManager::LoadFontsFromFile: Loading <fontset> with name 'Default' from 'C:\Kodi\addons\skin.estuary\xml\Font.xml'
+2024-06-01 17:42:39.736 T:5496    debug <general>: POParser: PO file has Win Style Line Endings. Converted in memory to Linux LF for file: C:\Kodi\addons\skin.estuary\language\resource.language.en_gb\strings.po
+2024-06-01 17:42:39.736 T:5496    debug <general>: LocalizeStrings: loaded 166 strings from file C:\Kodi\addons\skin.estuary\language\resource.language.en_gb\strings.po
+2024-06-01 17:42:39.736 T:5496     info <general>: ADDON::CSkinInfo::LoadTimers: Trying to load skin timers from C:\Kodi\addons\skin.estuary\xml\Timers.xml
+2024-06-01 17:42:39.736 T:5496     info <general>:   load new skin...
+2024-06-01 17:42:39.736 T:5496     info <general>: Loading custom window XMLs from skin path C:\Kodi\addons\skin.estuary\xml
+2024-06-01 17:42:39.738 T:5496    debug <general>: Load Skin XML: 1.84 ms
+2024-06-01 17:42:39.738 T:5496     info <general>:   initialize new skin...
+2024-06-01 17:42:39.738 T:5496    debug <general>: guilib: Fill viewport on change for solving rendering passes
+2024-06-01 17:42:39.738 T:5496     info <general>: Loading skin file: DialogBusy.xml, load type: LOAD_ON_GUI_INIT
+2024-06-01 17:42:39.738 T:5496     info <general>: Loading skin file: Pointer.xml, load type: LOAD_ON_GUI_INIT
+2024-06-01 17:42:39.739 T:5496    debug <general>: CTextureBundleXBT::OpenBundle - Opened bundle C:\Kodi\addons\skin.estuary\media\Textures.xbt
+2024-06-01 17:42:39.740 T:5496     info <general>: Loading skin file: DialogVolumeBar.xml, load type: LOAD_ON_GUI_INIT
+2024-06-01 17:42:39.740 T:5496     info <general>: Loading skin file: DialogExtendedProgressBar.xml, load type: LOAD_ON_GUI_INIT
+2024-06-01 17:42:39.740 T:5496     info <general>: Loading skin file: DialogSeekBar.xml, load type: LOAD_ON_GUI_INIT
+2024-06-01 17:42:39.744 T:5496     info <general>: Loading skin file: DialogNotification.xml, load type: LOAD_ON_GUI_INIT
+2024-06-01 17:42:39.745 T:5496     info <general>: Loading skin file: DialogBusy.xml, load type: LOAD_ON_GUI_INIT
+2024-06-01 17:42:39.745 T:5496     info <general>: Loading skin file: Custom_1109_TopBarOverlay.xml, load type: LOAD_ON_GUI_INIT
+2024-06-01 17:42:39.747 T:5496     info <general>: Loading resource://resource.uisounds.kodi/sounds.xml
+2024-06-01 17:42:39.754 T:5496     info <general>:   skin loaded...
+2024-06-01 17:42:39.754 T:5496    debug <general>: Activating window ID: 12997
+2024-06-01 17:42:39.754 T:5496    debug <general>: ------ Window Init () ------
+2024-06-01 17:42:39.754 T:5496    debug <general>: Activating window ID: 12999
+2024-06-01 17:42:39.754 T:5496    debug <general>: ------ Window Init (Startup.xml) ------
+2024-06-01 17:42:39.754 T:5496     info <general>: Loading skin file: Startup.xml, load type: LOAD_EVERY_TIME
+2024-06-01 17:42:39.754 T:5496    debug <general>: Activating window ID: 10000
+2024-06-01 17:42:39.754 T:5496    debug <general>: ------ Window Deinit (Startup.xml) ------
+2024-06-01 17:42:39.754 T:5496    debug <general>: ------ Window Init (Home.xml) ------
+2024-06-01 17:42:39.754 T:5496     info <general>: Loading skin file: Home.xml, load type: KEEP_IN_MEMORY
+2024-06-01 17:42:39.784 T:5496    debug <general>: CDirectoryProvider[addons://]: refreshing..
+2024-06-01 17:42:39.785 T:5496    debug <general>: CDirectoryProvider[addons://sources/video/]: refreshing..
+2024-06-01 17:42:39.785 T:5496    debug <general>: CDirectoryProvider[addons://sources/audio/]: refreshing..
+2024-06-01 17:42:39.785 T:5496    debug <general>: CDirectoryProvider[addons://sources/game/]: refreshing..
+2024-06-01 17:42:39.785 T:5496    debug <general>: CDirectoryProvider[addons://sources/executable/]: refreshing..
+2024-06-01 17:42:39.785 T:5496    debug <general>: CDirectoryProvider[addons://sources/image/]: refreshing..
+2024-06-01 17:42:39.785 T:5496    debug <general>: CDirectoryProvider[library://video/]: refreshing..
+2024-06-01 17:42:39.785 T:5496    debug <general>: CDirectoryProvider[sources://video/]: refreshing..
+2024-06-01 17:42:39.785 T:5496    debug <general>: CDirectoryProvider[special://videoplaylists/]: refreshing..
+2024-06-01 17:42:39.785 T:5496    debug <general>: CDirectoryProvider[favourites://]: refreshing..
+2024-06-01 17:42:39.785 T:5496    debug <general>: CDirectoryProvider[sources://pictures/]: refreshing..
+2024-06-01 17:42:39.785 T:5496    debug <general>: CDirectoryProvider[addons://sources/game/]: refreshing..
+2024-06-01 17:42:39.785 T:7428    debug <general>: CAddonDatabase: SELECT repo.id FROM repo .. took 0 ms
+2024-06-01 17:42:39.791 T:5496    debug <general>: JSONRPC: JSON schema type definition references an unknown type Setting.Details.Setting
+2024-06-01 17:42:39.791 T:5496  warning <general>: JSONRPC: Could not parse type "Setting.Details.SettingList"
+2024-06-01 17:42:39.791 T:5496     info <general>: JSONRPC: Adding type "Setting.Details.SettingList" to list of incomplete definitions (waiting for "Setting.Details.Setting")
+2024-06-01 17:42:39.791 T:5496     info <general>: JSONRPC: Resolving incomplete types/methods referencing Setting.Details.Setting
+2024-06-01 17:42:39.800 T:5496     info <general>: JSONRPC v13.5.0: Successfully initialized
+2024-06-01 17:42:39.801 T:5496    debug <general>: PERIPHERALS::CPeripherals::LoadMappings: loaded node "Motorola Nyxboard Hybrid"
+2024-06-01 17:42:39.801 T:5496    debug <general>: PERIPHERALS::CPeripherals::LoadMappings: loaded node "CEC Adapter"
+2024-06-01 17:42:39.801 T:5496    debug <general>: PERIPHERALS::CPeripherals::LoadMappings: loaded node "Pulse-Eight CEC Adapter"
+2024-06-01 17:42:39.801 T:5496    debug <general>: PERIPHERALS::CPeripherals::LoadMappings: loaded node "iMON HID device"
+2024-06-01 17:42:39.801 T:5496    debug <general>: PERIPHERALS::CPeripherals::LoadMappings: loaded node "WETEK Play remote"
+2024-06-01 17:42:39.801 T:5496    debug <general>: PERIPHERALS::CPeripherals::LoadMappings: loaded node "OSMC RF Remote"
+2024-06-01 17:42:39.801 T:5496    debug <general>: PERIPHERALS::CPeripherals::LoadMappings: loaded node "joystick"
+2024-06-01 17:42:39.801 T:5496    debug <general>: Add-on bus: Registering add-on peripheral.joystick
+2024-06-01 17:42:39.801 T:5496    debug <general>: PERIPHERAL - PERIPHERALS::CPeripheralAddon::CreateAddon - creating peripheral add-on instance 'Joystick Support'
+2024-06-01 17:42:39.801 T:5496    debug <general>: ADDON: Dll Initializing - Joystick Support
+2024-06-01 17:42:39.801 T:5496    debug <general>: SECTION:LoadDLL(C:\Kodi\addons\peripheral.joystick\peripheral.joystick.dll)
+2024-06-01 17:42:39.804 T:5496    debug <general>: AddOnLog: peripheral.joystick: Loaded 14 joystick families with 102 total joysticks
+2024-06-01 17:42:39.804 T:5496    debug <general>: Calling TransferSettings for: Joystick Support
+2024-06-01 17:42:39.805 T:5496     info <general>: AddOnLog: peripheral.joystick: Enabling joystick interface "xinput"
+2024-06-01 17:42:39.805 T:5496    debug <general>: AddOnLog: peripheral.joystick: Attempting to load XInput1_4.dll...
+2024-06-01 17:42:39.806 T:5496    debug <general>: AddOnLog: peripheral.joystick: Loaded XInput DLL version 1.4
+2024-06-01 17:42:39.806 T:5496    debug <general>: AddOnLog: peripheral.joystick: Loaded XInput symbols (GetState=0000000000000000, GetStateEx=00007FF840CB2F30, SetState=00007FF840CB31D0, GetCaps=00007FF840CB2910, GetBatteryInformation=00007FF840CB26C0, PowerOff=00007FF840CB3060)
+2024-06-01 17:42:39.806 T:5496     info <general>: AddOnLog: peripheral.joystick: Enabling joystick interface "directinput"
+2024-06-01 17:42:39.807 T:2660    debug <general>: Thread PeripBusUSB start, auto delete: false
+2024-06-01 17:42:39.807 T:7556    debug <general>: Thread PeripBusCEC start, auto delete: false
+2024-06-01 17:42:39.807 T:4852    debug <general>: Thread PeripBusAddon start, auto delete: false
+2024-06-01 17:42:39.807 T:5496    debug <general>: PERIPHERALS::CPeripheral::Initialise - initialised peripheral on 'keyboard' with 1 features and 0 sub devices
+2024-06-01 17:42:39.807 T:5496     info <general>: PERIPHERALS::CPeripheralBus::Register - new keyboard device registered on application->keyboard: Keyboard (0000:0000)
+2024-06-01 17:42:39.807 T:5496    debug <general>: PERIPHERALS::CPeripheral::Initialise - initialised peripheral on 'mouse' with 1 features and 0 sub devices
+2024-06-01 17:42:39.807 T:5496     info <general>: PERIPHERALS::CPeripheralBus::Register - new mouse device registered on application->mouse: Mouse (0000:0000)
+2024-06-01 17:42:39.808 T:9128    debug <general>: Thread PeripEventScan start, auto delete: false
+2024-06-01 17:42:39.808 T:5496    debug <general>: ContextMenuManager: addon menus reloaded.
+2024-06-01 17:42:39.808 T:6752    debug <general>: Thread JobWorker start, auto delete: true
+2024-06-01 17:42:39.808 T:5496     info <general>: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
+2024-06-01 17:42:39.809 T:5496    debug <general>: CPlayerCoreConfig::<ctor>: created player VideoPlayer
+2024-06-01 17:42:39.809 T:5496    debug <general>: CPlayerCoreConfig::<ctor>: created player PAPlayer
+2024-06-01 17:42:39.809 T:5496    debug <general>: CPlayerCoreConfig::<ctor>: created player RetroPlayer
+2024-06-01 17:42:39.809 T:5496    debug <general>: CPlayerSelectionRule::Initialize: creating rule: system rules
+2024-06-01 17:42:39.809 T:5496    debug <general>: CPlayerSelectionRule::Initialize: creating rule: mms/udp
+2024-06-01 17:42:39.809 T:5496    debug <general>: CPlayerSelectionRule::Initialize: creating rule: lastfm/shout
+2024-06-01 17:42:39.809 T:5496    debug <general>: CPlayerSelectionRule::Initialize: creating rule: rtmp
+2024-06-01 17:42:39.809 T:5496    debug <general>: CPlayerSelectionRule::Initialize: creating rule: rtsp
+2024-06-01 17:42:39.809 T:5496    debug <general>: CPlayerSelectionRule::Initialize: creating rule: streams
+2024-06-01 17:42:39.809 T:5496    debug <general>: CPlayerSelectionRule::Initialize: creating rule: aacp/sdp
+2024-06-01 17:42:39.809 T:5496    debug <general>: CPlayerSelectionRule::Initialize: creating rule: mp2
+2024-06-01 17:42:39.809 T:5496    debug <general>: CPlayerSelectionRule::Initialize: creating rule: dvd
+2024-06-01 17:42:39.809 T:5496    debug <general>: CPlayerSelectionRule::Initialize: creating rule: discimage
+2024-06-01 17:42:39.809 T:5496    debug <general>: CPlayerSelectionRule::Initialize: creating rule: sdp/asf
+2024-06-01 17:42:39.809 T:5496    debug <general>: CPlayerSelectionRule::Initialize: creating rule: nsv
+2024-06-01 17:42:39.809 T:5496    debug <general>: CPlayerSelectionRule::Initialize: creating rule: radio
+2024-06-01 17:42:39.809 T:5496     info <general>: Loaded playercorefactory configuration
+2024-06-01 17:42:39.809 T:5496     info <general>: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
+2024-06-01 17:42:39.809 T:5496     info <general>: special://masterprofile/playercorefactory.xml does not exist. Skipping.
+2024-06-01 17:42:39.809 T:5496     info <general>: removing tempfiles
+2024-06-01 17:42:39.810 T:5496    debug <general>: CRepositoryUpdater: closest next update check at 06/01/2024 11:37:17 PM (in 21277 s)
+2024-06-01 17:42:39.811 T:5496    debug <general>: CRepositoryUpdater: checking in 21277000 ms
+2024-06-01 17:42:39.811 T:2576    debug <general>: Thread Timer start, auto delete: false
+2024-06-01 17:42:39.811 T:5496    debug <general>: CServiceAddonManager: starting plugin.video.livetv
+2024-06-01 17:42:39.811 T:7796    debug <general>: Thread LanguageInvoker start, auto delete: false
+2024-06-01 17:42:39.811 T:5496    debug <general>: CServiceAddonManager: starting service.xbmc.versioncheck
+2024-06-01 17:42:39.811 T:7796    debug <general>: initializing python engine.
+2024-06-01 17:42:39.811 T:1972    debug <general>: Thread LanguageInvoker start, auto delete: false
+2024-06-01 17:42:39.811 T:1972    debug <general>: initializing python engine.
+2024-06-01 17:42:39.811 T:5496     info <general>: initialize done
+2024-06-01 17:42:39.812 T:5496     info <general>: Running the application...
+2024-06-01 17:42:39.812 T:5496    debug <general>: CNetworkBase::NetworkMessage - Starting network services
+2024-06-01 17:42:39.813 T:1140    debug <general>: Thread EventServer start, auto delete: false
+2024-06-01 17:42:39.813 T:1140     info <general>: ES: Starting UDP Event server on port 9777
+2024-06-01 17:42:39.813 T:5496     info <general>: JSONRPC Server: Successfully initialized
+2024-06-01 17:42:39.814 T:1140     info <general>: UDP: Listening on port 9777 (ipv6 : false)
+2024-06-01 17:42:39.814 T:2292    debug <general>: Thread TCPServer start, auto delete: false
+2024-06-01 17:42:39.819 T:5496     info <general>: [WS-Discovery]: Daemon started successfully.
+2024-06-01 17:42:39.844 T:1972    debug <general>: CPythonInvoker(1, C:\Kodi\portable_data\addons\service.xbmc.versioncheck\resources\lib\runner.py): start processing
+2024-06-01 17:42:39.847 T:7796    debug <general>: -->Python Interpreter Initialized<--
+2024-06-01 17:42:39.847 T:7796    debug <general>: CPythonInvoker(0): full python path:
+2024-06-01 17:42:39.847 T:7796    debug <general>: CPythonInvoker(0):   custom python path:
+2024-06-01 17:42:39.847 T:7796    debug <general>: CPythonInvoker(0):     C:\Kodi\portable_data\addons\plugin.video.livetv
+2024-06-01 17:42:39.847 T:7796    debug <general>: CPythonInvoker(0):   default python path:
+2024-06-01 17:42:39.847 T:7796    debug <general>: CPythonInvoker(0):     C:\Kodi\system\python\DLLs
+2024-06-01 17:42:39.847 T:7796    debug <general>: CPythonInvoker(0):     C:\Kodi\system\python\Lib
+2024-06-01 17:42:39.847 T:7796    debug <general>: CPythonInvoker(0):     C:\Kodi\system\python\Lib\site-packages
+2024-06-01 17:42:39.847 T:7796    debug <general>: CPythonInvoker(0): adding args:
+2024-06-01 17:42:39.847 T:7796    debug <general>: CPythonInvoker(0):  
+2024-06-01 17:42:39.876 T:5496    debug <general>: ------ Window Init () ------
+2024-06-01 17:42:39.877 T:5496    debug <general>: ------ Window Init (Pointer.xml) ------
+2024-06-01 17:42:39.881 T:1972    debug <general>: -->Python Interpreter Initialized<--
+2024-06-01 17:42:39.881 T:1972    debug <general>: 
+                                                   
+2024-06-01 17:42:39.881 T:1972    debug <general>: CPythonInvoker(1, C:\Kodi\portable_data\addons\service.xbmc.versioncheck\resources\lib\runner.py): the source file to load is "C:\Kodi\portable_data\addons\service.xbmc.versioncheck\resources\lib\runner.py"
+2024-06-01 17:42:39.881 T:1972    debug <general>: CPythonInvoker(1): full python path:
+2024-06-01 17:42:39.881 T:1972    debug <general>: CPythonInvoker(1):   custom python path:
+2024-06-01 17:42:39.881 T:1972    debug <general>: CPythonInvoker(1):     C:\Kodi\portable_data\addons\service.xbmc.versioncheck\resources\lib
+2024-06-01 17:42:39.881 T:1972    debug <general>: CPythonInvoker(1):   default python path:
+2024-06-01 17:42:39.881 T:1972    debug <general>: CPythonInvoker(1):     C:\Kodi\system\python\DLLs
+2024-06-01 17:42:39.881 T:1972    debug <general>: CPythonInvoker(1):     C:\Kodi\system\python\Lib
+2024-06-01 17:42:39.881 T:1972    debug <general>: CPythonInvoker(1):     C:\Kodi\system\python\Lib\site-packages
+2024-06-01 17:42:39.881 T:1972    debug <general>: CPythonInvoker(1): adding args:
+2024-06-01 17:42:39.881 T:1972    debug <general>: CPythonInvoker(1):  
+2024-06-01 17:42:39.881 T:1972    debug <general>: CPythonInvoker(1, C:\Kodi\portable_data\addons\service.xbmc.versioncheck\resources\lib\runner.py): entering source directory C:\Kodi\portable_data\addons\service.xbmc.versioncheck\resources\lib
+2024-06-01 17:42:39.881 T:1972    debug <general>: CPythonInvoker(1, C:\Kodi\portable_data\addons\service.xbmc.versioncheck\resources\lib\runner.py): instantiating addon using automatically obtained id of "service.xbmc.versioncheck" dependent on version 3.0.0 of the xbmc.python api
+2024-06-01 17:42:39.953 T:5496     info <general>: Loading controller layout: C:\Kodi\addons\game.controller.mouse\resources\layout.xml
+2024-06-01 17:42:40.272 T:1972    debug <general>: Version Check: Version 0.5.30+matrix.1 started
+2024-06-01 17:42:40.313 T:7796    debug <CAddonSettings[0@plugin.video.livetv]>: trying to load setting definitions from old format...
+2024-06-01 17:42:40.325 T:7796     info <general>: Skipped 2 duplicate messages..
+2024-06-01 17:42:40.337 T:7428    debug <general>: CAddonDatabase: query  SELECT addons.*, repo.addonID AS repoID FROM addons JOIN addonlinkrepo ON addons.id=addonlinkrepo.idAddon JOIN repo ON repo.id=addonlinkrepo.idRepo WHERE addonlinkrepo.idRepo IN (1) ORDER BY repo.addonID, addons.addonID returned 1007 rows in 551 ms
+2024-06-01 17:42:39.801 T:7372    debug <general>: CMultiPathDirectory::GetDirectory(multipath://special%3a%2f%2fprofile%2fplaylists%2fvideo/special%3a%2f%2fprofile%2fplaylists%2fmixed/)
+2024-06-01 17:42:40.342 T:7372    debug <general>: Getting Directory (special://profile/playlists/video)
+2024-06-01 17:42:40.342 T:7372    debug <general>: Getting Directory (special://profile/playlists/mixed)
+2024-06-01 17:42:40.343 T:7372    debug <general>: CMultiPathDirectory::MergeItems, items = 0
+2024-06-01 17:42:40.343 T:7372    debug <general>: CRecentlyAddedJob::UpdateMusic() - Running RecentlyAdded home screen update
+2024-06-01 17:42:40.351 T:7372    debug <general>: GetRecentlyAddedAlbumSongs() query: SELECT songview.*, songartistview.* FROM (SELECT idAlbum, dateAdded FROM album ORDER BY dateAdded DESC LIMIT 10) AS recentalbums JOIN songview ON songview.idAlbum = recentalbums.idAlbum JOIN songartistview ON songview.idSong = songartistview.idSong ORDER BY recentalbums.dateAdded DESC, songview.idAlbum DESC, songview.idSong, songartistview.idRole, songartistview.iOrder 
+2024-06-01 17:42:40.352 T:7372    debug <general>: CMusicDatabase::GetRecentlyAddedAlbums query: SELECT albumview.*, albumartistview.* FROM (SELECT idAlbum FROM album WHERE strAlbum != '' ORDER BY dateAdded DESC LIMIT 10) AS recentalbums JOIN albumview ON albumview.idAlbum = recentalbums.idAlbum JOIN albumartistview ON albumview.idAlbum = albumartistview.idAlbum ORDER BY dateAdded DESC, albumview.idAlbum desc, albumartistview.iOrder 
+2024-06-01 17:42:40.353 T:7372    debug <general>: CRecentlyAddedJob::UpdateVideos() - Running RecentlyAdded home screen update
+2024-06-01 17:42:40.359 T:7372    debug <general>: CRecentlyAddedJob::UpdateTotal() - Running RecentlyAdded home screen update
+2024-06-01 17:42:40.403 T:7428    debug <general>: CAddonDatabase::GetAddons took 617 ms
+2024-06-01 17:42:40.413 T:7428    debug <general>: CAddonMgr::GetAvailableUpdatesOrOutdatedAddons took 628 ms
+2024-06-01 17:42:41.419 T:8296    debug <general>: CIRServerSuite::Connect: connecting to: 127.0.0.1:24000 ...
+2024-06-01 17:42:41.769 T:5496    debug <general>: CInputManager::ProcessMouse: trying mouse action leftclick
+2024-06-01 17:42:43.452 T:8296    debug <general>: CIRServerSuite::Connect: failed to connect
+2024-06-01 17:42:43.452 T:8296     info <general>: CIRServerSuite::Process: failed to connect to irss, will keep retrying every 5 seconds
+2024-06-01 17:42:43.486 T:5496    debug <general>: CInputManager::ProcessMouse: trying mouse action leftclick
+2024-06-01 17:42:43.487 T:8824    debug <general>: Thread LanguageInvoker start, auto delete: false
+2024-06-01 17:42:43.487 T:8824    debug <general>: initializing python engine.
+2024-06-01 17:42:43.487 T:8824    debug <general>: CPythonInvoker(2, C:\Kodi\portable_data\addons\plugin.video.livetv\default.py): start processing
+2024-06-01 17:42:43.501 T:8824    debug <general>: -->Python Interpreter Initialized<--
+2024-06-01 17:42:43.501 T:8824    debug <general>: 
+                                                   
+2024-06-01 17:42:43.501 T:8824    debug <general>: CPythonInvoker(2, C:\Kodi\portable_data\addons\plugin.video.livetv\default.py): the source file to load is "C:\Kodi\portable_data\addons\plugin.video.livetv\default.py"
+2024-06-01 17:42:43.501 T:8824    debug <general>: CPythonInvoker(2): full python path:
+2024-06-01 17:42:43.501 T:8824    debug <general>: CPythonInvoker(2):   custom python path:
+2024-06-01 17:42:43.501 T:8824    debug <general>: CPythonInvoker(2):     C:\Kodi\portable_data\addons\plugin.video.livetv
+2024-06-01 17:42:43.501 T:8824    debug <general>: CPythonInvoker(2):   default python path:
+2024-06-01 17:42:43.501 T:8824    debug <general>: CPythonInvoker(2):     C:\Kodi\system\python\DLLs
+2024-06-01 17:42:43.501 T:8824    debug <general>: CPythonInvoker(2):     C:\Kodi\system\python\Lib
+2024-06-01 17:42:43.501 T:8824    debug <general>: CPythonInvoker(2):     C:\Kodi\system\python\Lib\site-packages
+2024-06-01 17:42:43.501 T:8824    debug <general>: CPythonInvoker(2): adding args:
+2024-06-01 17:42:43.501 T:8824    debug <general>: CPythonInvoker(2):  default.py
+2024-06-01 17:42:43.501 T:8824    debug <general>: CPythonInvoker(2, C:\Kodi\portable_data\addons\plugin.video.livetv\default.py): entering source directory C:\Kodi\portable_data\addons\plugin.video.livetv
+2024-06-01 17:42:43.501 T:8824    debug <general>: CPythonInvoker(2, C:\Kodi\portable_data\addons\plugin.video.livetv\default.py): instantiating addon using automatically obtained id of "plugin.video.livetv" dependent on version 0.0.0 of the xbmc.python api
+2024-06-01 17:42:43.835 T:8824    debug <CAddonSettings[0@plugin.video.livetv]>: trying to load setting definitions from old format...
+2024-06-01 17:42:43.914 T:8824     info <general>: Skipped 1 duplicate messages..
+2024-06-01 17:42:43.914 T:8824    error <general>: EXCEPTION: Window id does not exist
+2024-06-01 17:42:43.914 T:8824     info <CAddonSettings[0@plugin.video.livetv]>: Skipped 10 duplicate messages..
+2024-06-01 17:42:43.914 T:8824    debug <CAddonSettings[0@plugin.video.livetv]>: trying to load setting definitions from old format...
+2024-06-01 17:42:43.923 T:5496    debug <general>: Activating window ID: 13000
+2024-06-01 17:42:44.226 T:5496    debug <general>: ------ Window Deinit (Home.xml) ------
+2024-06-01 17:42:44.227 T:5496    debug <general>: FreeVisualisation() done
+2024-06-01 17:42:44.244 T:5496    debug <general>: [Warning] CGUITextureManager::GetTexturePath: could not find texture '-'
+2024-06-01 17:42:44.611 T:8824     info <CAddonSettings[0@plugin.video.livetv]>: Skipped 1 duplicate messages..
+2024-06-01 17:42:44.611 T:8824    debug <CAddonSettings[0@plugin.video.livetv]>: trying to load setting definitions from old format...
+2024-06-01 17:42:45.121 T:8824     info <general>: Skipped 4 duplicate messages..
+2024-06-01 17:42:45.284 T:1972    debug <general>: Version Check: Version installed {'major': 21, 'minor': 0, 'revision': '20240406-60c4500054', 'tag': 'stable'}
+2024-06-01 17:42:45.284 T:1972    debug <general>: Version Check: Version available  {'major': '21', 'minor': '0', 'tag': 'stable', 'tagversion': '', 'revision': '20240406-60c4500054', 'extrainfo': 'final', 'addon_support': 'yes'}
+2024-06-01 17:42:45.284 T:1972    debug <general>: Version Check: There is no newer stable available
+2024-06-01 17:42:45.284 T:1972    debug <general>: CPythonInvoker(1, C:\Kodi\portable_data\addons\service.xbmc.versioncheck\resources\lib\runner.py): script successfully run
+2024-06-01 17:42:45.284 T:1972    debug <general>: CPythonInvoker::onExecutionDone(1, C:\Kodi\portable_data\addons\service.xbmc.versioncheck\resources\lib\runner.py)
+2024-06-01 17:42:45.294 T:1972    debug <general>: Python interpreter stopped
+2024-06-01 17:42:45.294 T:1972    debug <general>: Thread LanguageInvoker 1972 terminating
+2024-06-01 17:42:45.550 T:5496    debug <general>: CInputManager::ProcessMouse: trying mouse action leftclick
+2024-06-01 17:42:45.581 T:5496    debug <general>: Activating window ID: 13001
+2024-06-01 17:42:45.711 T:5496    debug <general>: [Warning] CGUITextureManager::GetTexturePath: could not find texture '-'
+2024-06-01 17:42:45.978 T:8824     info <general>: Skipped 3 duplicate messages..
+2024-06-01 17:42:45.978 T:8824  warning <general>: Setting most video properties through ListItem.setInfo() is deprecated and might be removed in future Kodi versions. Please use the respective setter in InfoTagVideo.
+2024-06-01 17:42:46.015 T:8824     info <CAddonSettings[0@plugin.video.livetv]>: Skipped 73 duplicate messages..
+2024-06-01 17:42:46.015 T:8824    debug <CAddonSettings[0@plugin.video.livetv]>: trying to load setting definitions from old format...
+2024-06-01 17:42:46.095 T:5496    debug <general>: [Warning] CGUITextureManager::GetTexturePath: could not find texture '-'
+2024-06-01 17:42:46.248 T:8824     info <general>: Skipped 20 duplicate messages..
+2024-06-01 17:42:46.457 T:5496    debug <general>: [Warning] CGUITextureManager::GetTexturePath: could not find texture '-'
+2024-06-01 17:42:47.222 T:5496     info <general>: Skipped 11 duplicate messages..
+2024-06-01 17:42:47.222 T:5496    debug <general>: CInputManager::ProcessMouse: trying mouse action leftclick
+2024-06-01 17:42:47.780 T:8824    debug <CAddonSettings[0@plugin.video.livetv]>: trying to load setting definitions from old format...
+2024-06-01 17:42:47.802 T:5496    debug <general>: CPlayerCoreFactory::GetPlayers(https://livetv.com/tvid.mpd?token=tokenid)
+2024-06-01 17:42:47.803 T:5496    debug <general>: CPlayerSelectionRule::GetPlayers: considering rule: system rules
+2024-06-01 17:42:47.803 T:5496    debug <general>: CPlayerSelectionRule::GetPlayers: matches rule: system rules
+2024-06-01 17:42:47.803 T:5496    debug <general>: CPlayerSelectionRule::GetPlayers: considering rule: mms/udp
+2024-06-01 17:42:47.803 T:5496    debug <general>: CPlayerSelectionRule::GetPlayers: considering rule: lastfm/shout
+2024-06-01 17:42:47.803 T:5496    debug <general>: CPlayerSelectionRule::GetPlayers: considering rule: rtmp
+2024-06-01 17:42:47.803 T:5496    debug <general>: CPlayerSelectionRule::GetPlayers: considering rule: rtsp
+2024-06-01 17:42:47.803 T:5496    debug <general>: CPlayerSelectionRule::GetPlayers: considering rule: streams
+2024-06-01 17:42:47.803 T:5496    debug <general>: CPlayerSelectionRule::GetPlayers: matches rule: streams
+2024-06-01 17:42:47.803 T:5496    debug <general>: CPlayerSelectionRule::GetPlayers: considering rule: aacp/sdp
+2024-06-01 17:42:47.803 T:5496    debug <general>: CPlayerSelectionRule::GetPlayers: considering rule: mp2
+2024-06-01 17:42:47.803 T:5496    debug <general>: CPlayerSelectionRule::GetPlayers: considering rule: dvd
+2024-06-01 17:42:47.803 T:5496    debug <general>: CPlayerSelectionRule::GetPlayers: considering rule: discimage
+2024-06-01 17:42:47.803 T:5496    debug <general>: CPlayerSelectionRule::GetPlayers: considering rule: sdp/asf
+2024-06-01 17:42:47.803 T:5496    debug <general>: CPlayerSelectionRule::GetPlayers: considering rule: nsv
+2024-06-01 17:42:47.803 T:5496    debug <general>: CPlayerSelectionRule::GetPlayers: considering rule: radio
+2024-06-01 17:42:47.803 T:5496    debug <general>: CPlayerCoreFactory::GetPlayers: matched 0 rules with players
+2024-06-01 17:42:47.803 T:5496    debug <general>: CPlayerCoreFactory::GetPlayers: adding videodefaultplayer (VideoPlayer)
+2024-06-01 17:42:47.803 T:5496    debug <general>: CPlayerCoreFactory::GetPlayers: for video=true, audio=false
+2024-06-01 17:42:47.803 T:5496    debug <general>: CPlayerCoreFactory::GetPlayers: for video=true, audio=true
+2024-06-01 17:42:47.803 T:5496    debug <general>: CPlayerCoreFactory::GetPlayers: added 1 players
+2024-06-01 17:42:47.804 T:5496    debug <general>: Radio UECP (RDS) Processor - new CDVDRadioRDSData::CDVDRadioRDSData
+2024-06-01 17:42:47.804 T:5496    debug <general>: Audio ID3 tag processor - new CVideoPlayerAudioID3::CVideoPlayerAudioID3
+2024-06-01 17:42:47.804 T:5496     info <general>: VideoPlayer::OpenFile: https://livetv.com/tvid.mpd?token=tokenid
+2024-06-01 17:42:47.804 T:2360    debug <general>: Thread VideoPlayer start, auto delete: false
+2024-06-01 17:42:47.804 T:5496    debug <general>: CApplicationPlayerCallback::OnPlayBackStarted: CApplication::OnPlayBackStarted
+2024-06-01 17:42:47.804 T:2360     info <general>: Creating InputStream
+2024-06-01 17:42:47.804 T:2360    debug <general>: ADDON: Dll Initializing - InputStream Adaptive
+2024-06-01 17:42:47.804 T:2360    debug <general>: SECTION:LoadDLL(C:\Kodi\portable_data\addons\inputstream.adaptive\inputstream.adaptive.dll)
+2024-06-01 17:42:47.806 T:2360    debug <general>: AddOnLog: inputstream.adaptive: Open()
+2024-06-01 17:42:47.806 T:2360    debug <general>: AddOnLog: inputstream.adaptive: Property found "inputstream.adaptive.license_key" value: [redacted]
+2024-06-01 17:42:47.806 T:2360    debug <general>: AddOnLog: inputstream.adaptive: Property found "inputstream.adaptive.license_type" value: com.widevine.alpha
+2024-06-01 17:42:47.806 T:2360  warning <general>: AddOnLog: inputstream.adaptive: Warning "inputstream.adaptive.manifest_type" property is deprecated and will be removed next Kodi version, the manifest type is now automatically detected.
+                                                   If you are using a proxy remember to add the appropriate "content-type" header to the HTTP manifest response
+                                                   See Wiki page "How to provide custom manifest/license" to learn more about it.
+2024-06-01 17:42:47.806 T:2360    debug <general>: AddOnLog: inputstream.adaptive: Property found "inputstream.adaptive.manifest_type" value: mpd
+2024-06-01 17:42:47.806 T:2360  warning <general>: AddOnLog: inputstream.adaptive: Warning "inputstream.adaptive.manifest_update_parameter" property is deprecated and will be removed next Kodi version, use "inputstream.adaptive.manifest_upd_params" instead.
+                                                   See Wiki integration page for more details.
+2024-06-01 17:42:47.806 T:2360    error <general>: AddOnLog: inputstream.adaptive: The parameter "full" is no longer supported. For problems with live streaming contents please open an Issue to the GitHub repository.
+2024-06-01 17:42:47.806 T:2360    debug <general>: AddOnLog: inputstream.adaptive: Property found "inputstream.adaptive.manifest_update_parameter" value: full
+2024-06-01 17:42:47.806 T:2360    debug <general>: AddOnLog: inputstream.adaptive: Property found "inputstream.adaptive.stream_headers" value: User-Agent=LiveTV
+2024-06-01 17:42:47.806 T:2360    debug <general>: AddOnLog: inputstream.adaptive: [Repr. chooser] Type: Default
+2024-06-01 17:42:47.806 T:2360    debug <general>: AddOnLog: inputstream.adaptive: [Repr. chooser] Configuration
+                                                   Resolution max: 0x0
+                                                   Resolution max for secure decoder: 0x0
+                                                   Bandwidth limits (bit/s): min 0, max 0
+                                                   Ignore screen resolution: 0
+                                                   Ignore screen resolution change: 0
+2024-06-01 17:42:47.806 T:2360     info <general>: AddOnLog: inputstream.adaptive: [Repr. chooser] Resolution set: 2035x1207, max allowed: 2035x1207, Adjust refresh rate: 0
+2024-06-01 17:42:47.806 T:2360    debug <general>: AddOnLog: inputstream.adaptive: Supported URN: urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED
+2024-06-01 17:42:47.808 T:2360    debug <general>: CurlFile::XFILE::CCurlFile::Open - <https://livetv.com/tvid.mpd?token=tokenid>
+2024-06-01 17:42:47.808 T:2360    debug <general>: XCURL::DllLibCurlGlobal::easy_acquire - Created session to https://livetv.com
+2024-06-01 17:42:47.809 T:6752    debug <general>: Loading settings for https://livetv.com/tvid.mpd?token=tokenid
+2024-06-01 17:42:47.831 T:5496    debug <general>: CVideoGUIInfo::InitCurrentItem(https://livetv.com/tvid.mpd?token=tokenid)
+2024-06-01 17:42:47.831 T:5496    debug <general>: CPlayerGUIInfo::InitCurrentItem(https://livetv.com/tvid.mpd?token=tokenid)
+2024-06-01 17:42:47.933 T:5496    debug <general>: ------ Window Init (DialogBusy.xml) ------
+2024-06-01 17:42:47.991 T:2360    debug <general>: AddOnLog: inputstream.adaptive: Download finished: https://livetv.com/tvid.mpd?token=tokenid (downloaded 16532 byte, speed 90338.00 byte/s)
+2024-06-01 17:42:47.992 T:2360  warning <general>: AddOnLog: inputstream.adaptive: adaptive::CDashTree::ParseManifest: The <UTCTiming> tag element is not supported so playback problems may occur.
+2024-06-01 17:42:47.992 T:2360    debug <general>: AddOnLog: inputstream.adaptive: Parsing Playready header version 4.0.0.0
+2024-06-01 17:42:47.998 T:2360     info <general>: Skipped 3 duplicate messages..
+2024-06-01 17:42:47.998 T:2360     info <general>: AddOnLog: inputstream.adaptive: Manifest successfully parsed (Periods: 1, Streams in first period: 5, Type: live)
+2024-06-01 17:42:47.998 T:2360    debug <general>: AddOnLog: inputstream.adaptive: [Repr. chooser] Stream selection conditions
+                                                   Screen resolution: 2035x1207 (may be limited by settings)
+                                                   Initial bandwidth: 22919491 bit/s
+2024-06-01 17:42:47.998 T:2360    debug <general>: AddOnLog: inputstream.adaptive: New period, dispose sample decrypter and reinitialize
+2024-06-01 17:42:47.998 T:2360    debug <general>: AddOnLog: inputstream.adaptive: Entering encryption section
+2024-06-01 17:42:48.000 T:2360    debug <general>: AddOnLog: inputstream.adaptive: media::CdmAdapter::Initialize: CDM version: 4.10.2710.0
+2024-06-01 17:42:48.208 T:2360    debug <general>: AddOnLog: inputstream.adaptive: media::CdmAdapter::OnInitialized: CDM is initialized: true
+2024-06-01 17:42:48.208 T:2360    debug <general>: AddOnLog: inputstream.adaptive: Initializing stream with KID: 038cb20910784bc3b2203275a2a8a2ab
+2024-06-01 17:42:48.492 T:2360    debug <general>: AddOnLog: inputstream.adaptive: CDMMessage: 1 arrived!
+2024-06-01 17:42:48.492 T:2360    debug <general>: AddOnLog: inputstream.adaptive: CWVCencSingleSampleDecrypter::SetSession: Opened widevine session ID: 0C7DC727B028A126EF485871C4414A19
+2024-06-01 17:42:48.493 T:2360    debug <general>: CurlFile::XFILE::CCurlFile::Open - <https://livetv.com>
+2024-06-01 17:42:48.493 T:2360    debug <general>: XCURL::DllLibCurlGlobal::easy_acquire - Created session to https://livetv.com
+2024-06-01 17:42:48.945 T:2360    debug <general>: AddOnLog: inputstream.adaptive: CDMMessage: 2 arrived!
+2024-06-01 17:42:48.945 T:2360    debug <general>: AddOnLog: inputstream.adaptive: OnSessionKeysChange: Sessionkey 038CB20910784BC3B2203275A2A8A2AB status: 0 syscode: 0
+2024-06-01 17:42:48.945 T:2360    debug <general>: AddOnLog: inputstream.adaptive: CDMMessage: 3 arrived!
+2024-06-01 17:42:48.949 T:2360    debug <general>: AddOnLog: inputstream.adaptive: License update successful
+2024-06-01 17:42:48.954 T:2360    debug <general>: AddOnLog: inputstream.adaptive: CWVCencSingleSampleDecrypter::GetCapabilities: Single decrypt possible
+2024-06-01 17:42:48.954 T:2360    debug <general>: AddOnLog: inputstream.adaptive: Initializing stream with KID: 038cb20910784bc3b2203275a2a8a2ab
+2024-06-01 17:42:48.954 T:2360    debug <general>: AddOnLog: inputstream.adaptive: CWVCencSingleSampleDecrypter::GetCapabilities: Single decrypt possible
+2024-06-01 17:42:48.954 T:2360    debug <general>: AddOnLog: inputstream.adaptive: Initializing stream with KID: 038cb20910784bc3b2203275a2a8a2ab
+2024-06-01 17:42:48.954 T:2360    debug <general>: AddOnLog: inputstream.adaptive: CWVCencSingleSampleDecrypter::GetCapabilities: Single decrypt possible
+2024-06-01 17:42:48.954 T:2360    debug <general>: AddOnLog: inputstream.adaptive: Initializing stream with KID: 038cb20910784bc3b2203275a2a8a2ab
+2024-06-01 17:42:48.954 T:2360    debug <general>: AddOnLog: inputstream.adaptive: CWVCencSingleSampleDecrypter::GetCapabilities: Single decrypt possible
+2024-06-01 17:42:48.954 T:2360    debug <general>: AddOnLog: inputstream.adaptive: Initializing stream with KID: 038cb20910784bc3b2203275a2a8a2ab
+2024-06-01 17:42:48.954 T:2360    debug <general>: AddOnLog: inputstream.adaptive: CWVCencSingleSampleDecrypter::GetCapabilities: Single decrypt possible
+2024-06-01 17:42:48.954 T:2360    debug <general>: AddOnLog: inputstream.adaptive: Initializing stream with KID: 038cb20910784bc3b2203275a2a8a2ab
+2024-06-01 17:42:48.954 T:2360    debug <general>: AddOnLog: inputstream.adaptive: CWVCencSingleSampleDecrypter::GetCapabilities: Single decrypt possible
+2024-06-01 17:42:48.954 T:2360    debug <general>: AddOnLog: inputstream.adaptive: Initializing stream with KID: 038cb20910784bc3b2203275a2a8a2ab
+2024-06-01 17:42:48.954 T:2360    debug <general>: AddOnLog: inputstream.adaptive: CWVCencSingleSampleDecrypter::GetCapabilities: Single decrypt possible
+2024-06-01 17:42:48.955 T:2360    debug <general>: AddOnLog: inputstream.adaptive: Initializing stream with KID: 038cb20910784bc3b2203275a2a8a2ab
+2024-06-01 17:42:48.955 T:2360    debug <general>: AddOnLog: inputstream.adaptive: CWVCencSingleSampleDecrypter::GetCapabilities: Single decrypt possible
+2024-06-01 17:42:48.955 T:2360    debug <general>: AddOnLog: inputstream.adaptive: Initializing stream with KID: 038cb20910784bc3b2203275a2a8a2ab
+2024-06-01 17:42:48.955 T:2360    debug <general>: AddOnLog: inputstream.adaptive: CWVCencSingleSampleDecrypter::GetCapabilities: Single decrypt possible
+2024-06-01 17:42:48.955 T:2360    debug <general>: AddOnLog: inputstream.adaptive: Initializing stream with KID: 038cb20910784bc3b2203275a2a8a2ab
+2024-06-01 17:42:48.955 T:2360    debug <general>: AddOnLog: inputstream.adaptive: CWVCencSingleSampleDecrypter::GetCapabilities: Single decrypt possible
+2024-06-01 17:42:48.955 T:2360    debug <general>: AddOnLog: inputstream.adaptive: Initializing stream with KID: 038cb20910784bc3b2203275a2a8a2ab
+2024-06-01 17:42:48.955 T:2360    debug <general>: AddOnLog: inputstream.adaptive: CWVCencSingleSampleDecrypter::GetCapabilities: Single decrypt possible
+2024-06-01 17:42:48.955 T:2360    debug <general>: AddOnLog: inputstream.adaptive: Initializing stream with KID: 038cb20910784bc3b2203275a2a8a2ab
+2024-06-01 17:42:48.955 T:2360    debug <general>: AddOnLog: inputstream.adaptive: CWVCencSingleSampleDecrypter::GetCapabilities: Single decrypt possible
+2024-06-01 17:42:48.956 T:2360    debug <general>: AddOnLog: inputstream.adaptive: [Repr. chooser] Current average bandwidth: 22919491 bit/s (filtered to 20627541 bit/s)
+2024-06-01 17:42:48.956 T:2360    debug <general>: AddOnLog: inputstream.adaptive: [Repr. chooser] Selected representation
+                                                   ID video=6000000 (Bandwidth: 6000000 bit/s, Resolution: 1920x1080)
+2024-06-01 17:42:48.956 T:2360    debug <general>: AddOnLog: inputstream.adaptive: Created AdaptiveStream [AS-0] with adaptation set ID: "4", stream type: video
+2024-06-01 17:42:48.956 T:2360    debug <general>: AddOnLog: inputstream.adaptive: [Repr. chooser] Current average bandwidth: 22919491 bit/s (filtered to 20627541 bit/s)
+2024-06-01 17:42:48.956 T:2360    debug <general>: AddOnLog: inputstream.adaptive: [Repr. chooser] Selected representation
+                                                   ID video=6000000(mode=trik) (Bandwidth: 2100000 bit/s, Resolution: 1920x1080)
+2024-06-01 17:42:48.956 T:2360    debug <general>: AddOnLog: inputstream.adaptive: Created AdaptiveStream [AS-1] with adaptation set ID: "5", stream type: video
+2024-06-01 17:42:48.956 T:2360    debug <general>: AddOnLog: inputstream.adaptive: Created AdaptiveStream [AS-2] with adaptation set ID: "2", stream type: audio
+2024-06-01 17:42:48.956 T:2360    debug <general>: AddOnLog: inputstream.adaptive: Created AdaptiveStream [AS-3] with adaptation set ID: "1", stream type: audio
+2024-06-01 17:42:48.956 T:2360    debug <general>: AddOnLog: inputstream.adaptive: Created AdaptiveStream [AS-4] with adaptation set ID: "3", stream type: subtitle
+2024-06-01 17:42:48.956 T:2360    debug <general>: AddOnLog: inputstream.adaptive: GetCapabilities()
+2024-06-01 17:42:48.957 T:2360     info <general>: Creating Demuxer
+2024-06-01 17:42:48.957 T:2360    debug <general>: AddOnLog: inputstream.adaptive: GetStreamIds()
+2024-06-01 17:42:48.957 T:2360    debug <general>: AddOnLog: inputstream.adaptive: GetStream(1001)
+2024-06-01 17:42:48.957 T:2360    debug <general>: AddOnLog: inputstream.adaptive: GetStream(1002)
+2024-06-01 17:42:48.957 T:2360    debug <general>: AddOnLog: inputstream.adaptive: GetStream(1003)
+2024-06-01 17:42:48.957 T:2360    debug <general>: AddOnLog: inputstream.adaptive: GetStream(1004)
+2024-06-01 17:42:48.958 T:2360    debug <general>: AddOnLog: inputstream.adaptive: GetStream(1005)
+2024-06-01 17:42:48.958 T:2360    debug <general>: CDVDDemuxClient::RequestStream(): added/updated stream 1001 with codec_id 27
+2024-06-01 17:42:48.958 T:2360    debug <general>: CDVDDemuxClient::RequestStream(): added/updated stream 1002 with codec_id 27
+2024-06-01 17:42:48.958 T:2360    debug <general>: CDVDDemuxClient::RequestStream(): added/updated stream 1003 with codec_id 86019
+2024-06-01 17:42:48.958 T:2360    debug <general>: CDVDDemuxClient::RequestStream(): added/updated stream 1004 with codec_id 86018
+2024-06-01 17:42:48.958 T:2360    debug <general>: CDVDDemuxClient::RequestStream(): added/updated stream 1005 with codec_id 94225
+2024-06-01 17:42:48.958 T:2360     info <general>: Opening stream: 1001 source: 256
+2024-06-01 17:42:48.958 T:2360    debug <general>: AddOnLog: inputstream.adaptive: OpenStream(1001)
+2024-06-01 17:42:48.960 T:2360    debug <general>: CurlFile::XFILE::CCurlFile::Open - <https://livetv.com/dash/tvid-video=6000000.dash>
+2024-06-01 17:42:48.965 T:2360    debug <general>: AddOnLog: inputstream.adaptive: [AS-0] Download finished: https://livetv.com/dash/tvid-video=6000000.dash (downloaded 1419 byte, speed 283800.00 byte/s)
+2024-06-01 17:42:48.965 T:2360    debug <general>: AddOnLog: inputstream.adaptive: CFragmentedSampleReader::UpdateSampleDescription: Codec fourcc: avc1 (1635148593)
+2024-06-01 17:42:48.965 T:2360    debug <general>: AddOnLog: inputstream.adaptive: GetStream(1001)
+2024-06-01 17:42:48.965 T:2360    debug <general>: CDVDDemuxClient::RequestStream(): added/updated stream 1001 with codec_id 27
+2024-06-01 17:42:48.966 T:2360     info <general>: Creating video codec with codec id: 27
+2024-06-01 17:42:48.966 T:2360     info <general>: CDVDVideoCodecFFmpeg::Open() Using codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+2024-06-01 17:42:48.966 T:2360    debug <general>: CDVDVideoCodecFFmpeg - Updated codec: ff-h264
+2024-06-01 17:42:48.966 T:2360    debug <general>: CVideoPlayerVideo::OpenStream - open stream with codec id: 27
+2024-06-01 17:42:48.966 T:2360     info <general>: Creating video thread
+2024-06-01 17:42:48.966 T:7384    debug <general>: Thread VideoPlayerVideo start, auto delete: false
+2024-06-01 17:42:48.966 T:7384     info <general>: running thread: video_thread
+2024-06-01 17:42:48.966 T:7384    debug <general>: CVideoPlayerVideo - CDVDMsg::GENERAL_PAUSE: false
+2024-06-01 17:42:48.966 T:2360     info <general>: Opening stream: 1003 source: 256
+2024-06-01 17:42:48.966 T:2360    debug <general>: AddOnLog: inputstream.adaptive: OpenStream(1003)
+2024-06-01 17:42:48.966 T:2360    debug <general>: CurlFile::XFILE::CCurlFile::Open - <https://livetv.com/dash/tvid-audio=384000.dash>
+2024-06-01 17:42:48.972 T:2360    debug <general>: AddOnLog: inputstream.adaptive: [AS-2] Download finished: https://livetv.com/dash/tvid-audio=384000.dash (downloaded 1295 byte, speed 259000.00 byte/s)
+2024-06-01 17:42:48.972 T:2360    debug <general>: AddOnLog: inputstream.adaptive: CFragmentedSampleReader::UpdateSampleDescription: Codec fourcc: ac-3 (1633889587)
+2024-06-01 17:42:48.972 T:2360    debug <general>: AddOnLog: inputstream.adaptive: GetStream(1003)
+2024-06-01 17:42:48.972 T:2360    debug <general>: CDVDDemuxClient::RequestStream(): added/updated stream 1003 with codec_id 86019
+2024-06-01 17:42:48.972 T:2360     info <general>: Finding audio codec for: 86019
+2024-06-01 17:42:48.972 T:2360     info <general>: CDVDAudioCodecFFmpeg::Open() Successful opened audio decoder ac3
+2024-06-01 17:42:48.972 T:2360     info <general>: CVideoPlayerAudio::OpenStream: Allowing max Out-Of-Sync Value of 10 ms
+2024-06-01 17:42:48.972 T:2360     info <general>: Creating audio thread
+2024-06-01 17:42:48.972 T:2444    debug <general>: Thread VideoPlayerAudio start, auto delete: false
+2024-06-01 17:42:48.972 T:2444     info <general>: running thread: CVideoPlayerAudio::Process()
+2024-06-01 17:42:48.972 T:2360     info <general>: Opening stream: 1005 source: 256
+2024-06-01 17:42:48.972 T:2360    debug <general>: AddOnLog: inputstream.adaptive: OpenStream(1005)
+2024-06-01 17:42:48.973 T:2360    debug <general>: CurlFile::XFILE::CCurlFile::Open - <https://livetv.com/dash/tvid-textstream=0.dash>
+2024-06-01 17:42:48.978 T:2360    debug <general>: AddOnLog: inputstream.adaptive: [AS-4] Download finished: https://livetv.com/dash/tvid-textstream=0.dash (downloaded 626 byte, speed 125200.00 byte/s)
+2024-06-01 17:42:48.978 T:2360    debug <general>: AddOnLog: inputstream.adaptive: CFragmentedSampleReader::UpdateSampleDescription: Codec fourcc: stpp (1937010800)
+2024-06-01 17:42:48.978 T:2360    debug <general>: AddOnLog: inputstream.adaptive: GetStream(1005)
+2024-06-01 17:42:48.978 T:2360     info <general>: CDVDSubtitlesLibass: Using libass version 1701000
+2024-06-01 17:42:48.978 T:2360     info <general>: CDVDSubtitlesLibass: Creating ASS library structure
+2024-06-01 17:42:48.978 T:2360     info <general>: CDVDSubtitlesLibass: Initializing ASS Renderer
+2024-06-01 17:42:48.978 T:2360    debug <general>: CDVDSubtitlesLibass: [ass] libass API version: 0x1701000
+2024-06-01 17:42:48.978 T:2360    debug <general>: CDVDSubtitlesLibass: [ass] libass source: 3f188ca5bbcb6605c59dfa5731c01cd1273a6d6a
+2024-06-01 17:42:48.979 T:2360    debug <general>: CDVDSubtitlesLibass: [ass] Shaper: FriBidi 1.0.8 (SIMPLE) HarfBuzz-ng 2.8.0 (COMPLEX)
+2024-06-01 17:42:48.979 T:2360     info <general>: CDVDSubtitlesLibass: Initializing ASS library font settings
+2024-06-01 17:42:48.983 T:2444    debug <general>: CVideoPlayerAudio - CDVDMsg::GENERAL_PAUSE: false
+2024-06-01 17:42:48.985 T:2360    debug <general>: CDVDSubtitlesLibass: [ass] Using font provider directwrite (with GDI)
+2024-06-01 17:42:48.985 T:2360     info <general>: CDVDSubtitlesLibass: Creating new ASS track
+2024-06-01 17:42:48.985 T:2360    debug <general>: Created subtitles overlay codec: Text Subtitle Decoder
+2024-06-01 17:42:48.985 T:2360    debug <general>: AddOnLog: inputstream.adaptive: EnableStream(1005: false)
+2024-06-01 17:42:48.986 T:2360    debug <general>: AddOnLog: inputstream.adaptive: EnableStream(1002: false)
+2024-06-01 17:42:48.986 T:2360    debug <general>: AddOnLog: inputstream.adaptive: EnableStream(1004: false)
+2024-06-01 17:42:48.986 T:2360    debug <general>: CVideoPlayer::SetCaching - caching state 2
+2024-06-01 17:42:48.986 T:2360    debug <general>: CDVDClock::SetSpeedAdjust - adjusted:0.000000
+2024-06-01 17:42:48.986 T:2360    debug <general>: CVideoPlayer::HandleMessages - player 2 reported state: 0
+2024-06-01 17:42:48.986 T:2360    debug <general>: CVideoPlayer::HandleMessages - player 1 reported state: 0
+2024-06-01 17:42:48.986 T:6752    debug <general>: CApplicationPlayerCallback::OnAVChange: CApplication::OnAVChange
+2024-06-01 17:42:48.986 T:2360    debug <general>: CDVDClock::SetSpeedAdjust - adjusted:-0.050000
+2024-06-01 17:42:48.986 T:8492    debug <general>: CurlFile::XFILE::CCurlFile::Open - <https://livetv.com/dash/tvid-video=6000000-1030353898752.dash>
+2024-06-01 17:42:48.993 T:2444    debug <general>: CDVDAudio::Pause - pausing audio stream
+2024-06-01 17:42:49.003 T:8640    debug <general>: CurlFile::XFILE::CCurlFile::Open - <https://livetv.com/dash/tvid-audio=384000-82428311901102.dash>
+2024-06-01 17:42:49.003 T:8640    debug <general>: XCURL::DllLibCurlGlobal::easy_acquire - Created session to https://livetv.com
+2024-06-01 17:42:49.085 T:8492    debug <general>: AddOnLog: inputstream.adaptive: [AS-0] Download finished: https://livetv.com/dash/tvid-video=6000000-1030353898752.dash (downloaded 1374273 byte, speed 13881545.00 byte/s)
+2024-06-01 17:42:49.086 T:8492    debug <general>: CurlFile::XFILE::CCurlFile::Open - <https://livetv.com/dash/tvid-video=6000000-1030353899904.dash>
+2024-06-01 17:42:49.501 T:8492    debug <general>: AddOnLog: inputstream.adaptive: [AS-0] Download finished: https://livetv.com/dash/tvid-video=6000000-1030353899904.dash (downloaded 1440668 byte, speed 3471489.00 byte/s)
+2024-06-01 17:42:49.501 T:8492    debug <general>: CurlFile::XFILE::CCurlFile::Open - <https://livetv.com/dash/tvid-video=6000000-1030353901056.dash>
+2024-06-01 17:42:49.506 T:7384    debug <general>: CVideoPlayerVideo - Stillframe left, switching to normal playback
+2024-06-01 17:42:49.506 T:7384    debug <general>: DXVA: open decoder.
+2024-06-01 17:42:49.506 T:7384  warning <general>: DXVA::CContext::CreateContext: using app d3d11 device for decoding due extended NV12 shared textures it's not supported.
+2024-06-01 17:42:49.508 T:2444    debug <general>: CVideoPlayerAudio: stream props changed, checking for passthrough
+2024-06-01 17:42:49.508 T:2444     info <general>: CDVDAudioCodecFFmpeg::Open() Successful opened audio decoder ac3
+2024-06-01 17:42:49.508 T:2444     info <general>: Creating audio stream (codec id: 86019, channels: 6, sample rate: 48000, no pass-through)
+2024-06-01 17:42:49.508 T:2444    debug <general>: CVideoPlayerAudio:: synctype set to 1: resample
+2024-06-01 17:42:49.509 T:8640    debug <general>: AddOnLog: inputstream.adaptive: [AS-2] Download finished: https://livetv.com/dash/tvid-audio=384000-82428311901102.dash (downloaded 92953 byte, speed 184065.00 byte/s)
+2024-06-01 17:42:49.509 T:8640    debug <general>: CurlFile::XFILE::CCurlFile::Open - <https://livetv.com/dash/tvid-audio=384000-82428311993262.dash>
+2024-06-01 17:42:49.526 T:7572     info <general>: CActiveAESink::OpenSink - initialize sink
+2024-06-01 17:42:49.526 T:7572    debug <general>: CAESinkDirectSound::Deinitialize: Cleaning up
+2024-06-01 17:42:49.577 T:7384    debug <general>: DXVA: supports DFB0145A-37f2-4657-a3bb-c17fb63f879c
+2024-06-01 17:42:49.584 T:7384    debug <general>: DXVA: unable to find an input/output format combination.
+2024-06-01 17:42:49.584 T:7384    debug <general>: DXVA::CDecoder::~CDecoder: destructing decoder, 0x18190268660.
+2024-06-01 17:42:49.584 T:7384     info <general>: DXVA::CDecoder::Close: closing decoder.
+2024-06-01 17:42:49.584 T:7384     info <general>: DXVA: closing decoder context.
+2024-06-01 17:42:49.634 T:7384     info <general>: CDVDVideoCodecFFmpeg::Open() Using codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+2024-06-01 17:42:49.634 T:7384    debug <general>: CDVDVideoCodecFFmpeg - open frame threaded with 3 threads
+2024-06-01 17:42:49.634 T:7384    debug <general>: CDVDVideoCodecFFmpeg - Updated codec: ff-h264
+2024-06-01 17:42:49.670 T:8640    debug <general>: AddOnLog: inputstream.adaptive: [AS-2] Download finished: https://livetv.com/dash/tvid-audio=384000-82428311993262.dash (downloaded 92953 byte, speed 577347.00 byte/s)
+2024-06-01 17:42:49.671 T:8640    debug <general>: CurlFile::XFILE::CCurlFile::Open - <https://livetv.com/dash/tvid-audio=384000-82428312085422.dash>
+2024-06-01 17:42:49.685 T:8640    debug <general>: AddOnLog: inputstream.adaptive: [AS-2] Download finished: https://livetv.com/dash/tvid-audio=384000-82428312085422.dash (downloaded 92953 byte, speed 7150230.00 byte/s)
+2024-06-01 17:42:49.685 T:8640    debug <general>: CurlFile::XFILE::CCurlFile::Open - <https://livetv.com/dash/tvid-audio=384000-82428312177582.dash>
+2024-06-01 17:42:49.713 T:7384    debug <general>: CRenderManager::Configure - change configuration. 1920x1080. display: 1920x1080. framerate: 50.00.
+2024-06-01 17:42:49.713 T:8640    debug <general>: AddOnLog: inputstream.adaptive: [AS-2] Download finished: https://livetv.com/dash/tvid-audio=384000-82428312177582.dash (downloaded 92953 byte, speed 3442703.00 byte/s)
+2024-06-01 17:42:49.713 T:8640    debug <general>: CurlFile::XFILE::CCurlFile::Open - <https://livetv.com/dash/tvid-audio=384000-82428312269742.dash>
+2024-06-01 17:42:49.717 T:5496    debug <general>: CRenderManager::DeleteRenderer - deleting renderer
+2024-06-01 17:42:49.717 T:5496    debug <general>: CWinRenderer::SelectRenderer: requested render method: 0
+2024-06-01 17:42:49.717 T:5496    debug <general>: DXVA::CEnumeratorHD::OpenEnumerator: initializing video enumerator with params: 1920x1080.
+2024-06-01 17:42:49.717 T:5496    debug <general>: CWIN32Util::GetWindowsHDRStatus: Display is not HDR capable or cannot be detected
+2024-06-01 17:42:49.717 T:5496    debug <general>: DXVA::CEnumeratorHD::SupportedConversions: source: primaries bt709, color space unknown, transfer unknown, limited range, dest: SDR
+2024-06-01 17:42:49.717 T:5496    debug <general>: DXVA::CEnumeratorHD::SupportedConversions: natural dxgi color space mapping of source: YCBCR_STUDIO_G22_LEFT_P709, dest: RGB_FULL_G22_NONE_P709
+2024-06-01 17:42:49.717 T:5496    debug <general>: DXVA::CEnumeratorHD::LogAndListConversions: dxgi color space mapping of source: YCBCR_STUDIO_G22_LEFT_P709, dest color space: RGB_FULL_G22_NONE_P709
+2024-06-01 17:42:49.717 T:5496    debug <general>: CWinRenderer::SelectRenderer: selected render method: Pixel Shaders
+2024-06-01 17:42:49.717 T:5496    debug <general>: CWIN32Util::GetWindowsHDRStatus: Display is not HDR capable or cannot be detected
+2024-06-01 17:42:49.717 T:5496    debug <general>: CRendererBase::CreateIntermediateTarget: creating intermediate target 1920x1080 format R16G16B16A16_FLOAT.
+2024-06-01 17:42:49.730 T:5496    debug <general>: CRenderManager::Configure - 6
+2024-06-01 17:42:49.731 T:2360    debug <general>: CVideoPlayer::HandleMessages - player started 2
+2024-06-01 17:42:49.732 T:5496    debug <general>: CWinShader::LoadEffect: loading shader special://xbmc/system/shaders/output_d3d.fx
+2024-06-01 17:42:49.745 T:5496    debug <general>: CWinShader::LoadEffect: loading shader special://xbmc/system/shaders/yuv2rgb_d3d.fx
+2024-06-01 17:42:49.788 T:7724    debug <general>: AddOnLog: inputstream.adaptive: [Repr. chooser] Current average bandwidth: 53914587 bit/s (filtered to 48523128 bit/s)
+2024-06-01 17:42:49.831 T:8640    debug <general>: AddOnLog: inputstream.adaptive: [AS-2] Download finished: https://livetv.com/dash/tvid-audio=384000-82428312269742.dash (downloaded 92953 byte, speed 794470.00 byte/s)
+2024-06-01 17:42:49.831 T:8640    debug <general>: CurlFile::XFILE::CCurlFile::Open - <https://livetv.com/dash/tvid-audio=384000-82428312361902.dash>
+2024-06-01 17:42:49.832 T:1800  warning <general>: [WS-Discovery]: The initial search for servers has failed. No servers found.
+2024-06-01 17:42:49.841 T:4808    debug <general>: AddOnLog: inputstream.adaptive: [Repr. chooser] Current average bandwidth: 53914587 bit/s (filtered to 48523128 bit/s)
+2024-06-01 17:42:49.876 T:7572    debug <general>: CActiveAESink::OpenSink - trying to open device DIRECTSOUND:default
+2024-06-01 17:42:49.882 T:7572    debug <general>: CAESinkDirectSound::Initialize: Using Window handle: 0x8030e
+2024-06-01 17:42:49.886 T:7572    debug <general>: CAESinkDirectSound::Initialize: secondary buffer created
+2024-06-01 17:42:49.887 T:7572    debug <general>: CAESinkDirectSound::Initialize: Initializing DirectSound with the following parameters:
+2024-06-01 17:42:49.887 T:7572    debug <general>:   Audio Device    : Speakers (High Definition Audio Device)
+2024-06-01 17:42:49.887 T:7572    debug <general>:   Sample Rate     : 48000
+2024-06-01 17:42:49.887 T:7572    debug <general>:   Sample Format   : AE_FMT_FLOAT
+2024-06-01 17:42:49.887 T:7572    debug <general>:   Bits Per Sample : 32
+2024-06-01 17:42:49.887 T:7572    debug <general>:   Valid Bits/Samp : 32
+2024-06-01 17:42:49.887 T:7572    debug <general>:   Channel Count   : 2
+2024-06-01 17:42:49.887 T:7572    debug <general>:   Block Align     : 8
+2024-06-01 17:42:49.887 T:7572    debug <general>:   Avg. Bytes Sec  : 384000
+2024-06-01 17:42:49.887 T:7572    debug <general>:   Samples/Block   : 32
+2024-06-01 17:42:49.887 T:7572    debug <general>:   Format cBSize   : 22
+2024-06-01 17:42:49.887 T:7572    debug <general>:   Channel Layout  : FL, FR
+2024-06-01 17:42:49.887 T:7572    debug <general>:   Channel Mask    : 3
+2024-06-01 17:42:49.887 T:7572    debug <general>:   Frames          : 720
+2024-06-01 17:42:49.887 T:7572    debug <general>:   Frame Size      : 8
+2024-06-01 17:42:49.887 T:7572    debug <general>: CActiveAESink::OpenSink - DIRECTSOUND Initialized:
+2024-06-01 17:42:49.887 T:7572    debug <general>:   Output Device : default
+2024-06-01 17:42:49.887 T:7572    debug <general>:   Sample Rate   : 48000
+2024-06-01 17:42:49.887 T:7572    debug <general>:   Sample Format : AE_FMT_FLOAT
+2024-06-01 17:42:49.887 T:7572    debug <general>:   Channel Count : 2
+2024-06-01 17:42:49.887 T:7572    debug <general>:   Channel Layout: FL, FR
+2024-06-01 17:42:49.887 T:7572    debug <general>:   Frames        : 720
+2024-06-01 17:42:49.887 T:7572    debug <general>:   Frame Size    : 8
+2024-06-01 17:42:49.916 T:6220    debug <general>: CActiveAE::ClearDiscardedBuffers - buffer pool deleted
+2024-06-01 17:42:49.918 T:2360     info <general>: Skipped 1 duplicate messages..
+2024-06-01 17:42:49.918 T:2360    debug <general>: CDVDClock::SetSpeedAdjust - adjusted:0.000000
+2024-06-01 17:42:49.918 T:2360    debug <general>: CVideoPlayer::HandleMessages - player started 1
+2024-06-01 17:42:49.918 T:2360    debug <general>: VideoPlayer::Sync - Audio - pts: 1717256498227625.000000, cache: 319999.933243, totalcache: 780000.030994
+2024-06-01 17:42:49.918 T:2360    debug <general>: VideoPlayer::Sync - Video - pts: 1717256497940000.250000, cache: 50000.000000, totalcache: 100000.000000
+2024-06-01 17:42:49.918 T:2444    debug <general>: CVideoPlayerAudio - CDVDMsg::GENERAL_RESYNC(1717256497047625.000000), level: 58, cache: 319999.933243
+2024-06-01 17:42:49.918 T:2444    debug <general>: CDVDAudio::Resume - resume audio stream
+2024-06-01 17:42:49.919 T:7384    debug <general>: CVideoPlayerVideo - CDVDMsg::GENERAL_RESYNC(1717256497047625.000000)
+2024-06-01 17:42:49.919 T:5496    debug <general>: Activating window ID: 12005
+2024-06-01 17:42:49.919 T:5496    debug <general>: ------ Window Init (VideoFullScreen.xml) ------
+2024-06-01 17:42:49.919 T:5496     info <general>: Loading skin file: VideoFullScreen.xml, load type: KEEP_IN_MEMORY
+2024-06-01 17:42:49.920 T:6220    debug <general>: ActiveAE - start sync of audio stream
+2024-06-01 17:42:49.989 T:7572    debug <general>: CAESinkDirectSound::CheckPlayStatus: Resuming Playback
+2024-06-01 17:42:49.990 T:8640    debug <general>: AddOnLog: inputstream.adaptive: [AS-2] Download finished: https://livetv.com/dash/tvid-audio=384000-82428312361902.dash (downloaded 92953 byte, speed 584610.00 byte/s)
+2024-06-01 17:42:49.991 T:8640    debug <general>: CurlFile::XFILE::CCurlFile::Open - <https://livetv.com/dash/tvid-audio=384000-82428312454062.dash>
+2024-06-01 17:42:50.000 T:6344    debug <general>: CurlFile::XFILE::CCurlFile::Open - <https://livetv.com/tvid.mpd?token=tokenid>
+2024-06-01 17:42:50.000 T:6344    debug <general>: XCURL::DllLibCurlGlobal::easy_acquire - Created session to https://livetv.com
+2024-06-01 17:42:50.004 T:8640    debug <general>: AddOnLog: inputstream.adaptive: [AS-2] Download finished: https://livetv.com/dash/tvid-audio=384000-82428312454062.dash (downloaded 92953 byte, speed 7746083.00 byte/s)
+2024-06-01 17:42:50.004 T:8640    debug <general>: CurlFile::XFILE::CCurlFile::Open - <https://livetv.com/dash/tvid-audio=384000-82428312546222.dash>
+2024-06-01 17:42:50.004 T:7372    debug <general>: CApplicationPlayerCallback::OnAVChange: CApplication::OnAVChange
+2024-06-01 17:42:50.005 T:7372     info <general>: Skipped 1 duplicate messages..
+2024-06-01 17:42:50.005 T:7372    debug <general>: CApplicationPlayerCallback::OnAVStarted: CApplication::OnAVStarted
+2024-06-01 17:42:50.005 T:8492    debug <general>: AddOnLog: inputstream.adaptive: [AS-0] Download finished: https://livetv.com/dash/tvid-video=6000000-1030353901056.dash (downloaded 1488376 byte, speed 2958998.00 byte/s)
+2024-06-01 17:42:50.005 T:8492    debug <general>: CurlFile::XFILE::CCurlFile::Open - <https://livetv.com/dash/tvid-video=6000000-1030353902208.dash>
+2024-06-01 17:42:50.017 T:8640    debug <general>: AddOnLog: inputstream.adaptive: [AS-2] Download finished: https://livetv.com/dash/tvid-audio=384000-82428312546222.dash (downloaded 92953 byte, speed 7746083.00 byte/s)
+2024-06-01 17:42:50.036 T:5496    debug <general>: ------ Window Deinit (DialogBusy.xml) ------
+2024-06-01 17:42:50.037 T:6220    debug <general>: ActiveAE::SyncStream - average error of 851.814971, start adjusting
+2024-06-01 17:42:50.040 T:6344    debug <general>: AddOnLog: inputstream.adaptive: Download finished: https://livetv.com/tvid.mpd?token=tokenid (downloaded 16532 byte, speed 423897.00 byte/s)
+2024-06-01 17:42:50.040 T:6344  warning <general>: AddOnLog: inputstream.adaptive: adaptive::CDashTree::ParseManifest: The <UTCTiming> tag element is not supported so playback problems may occur.
+2024-06-01 17:42:50.040 T:6344    debug <general>: AddOnLog: inputstream.adaptive: Parsing Playready header version 4.0.0.0
+2024-06-01 17:42:50.049 T:6344     info <general>: Skipped 3 duplicate messages..
+2024-06-01 17:42:50.049 T:6344    debug <general>: AddOnLog: inputstream.adaptive: adaptive::CDashTree::OnUpdateSegments: MPD update - No new segments (repr. id "audio=384000", period id "1")
+2024-06-01 17:42:50.049 T:6344    debug <general>: AddOnLog: inputstream.adaptive: adaptive::CDashTree::OnUpdateSegments: MPD update - No new segments (repr. id "textstream=0", period id "1")
+2024-06-01 17:42:50.049 T:6344    debug <general>: AddOnLog: inputstream.adaptive: adaptive::CDashTree::OnUpdateSegments: MPD update - No new segments (repr. id "video=6000000", period id "1")
+2024-06-01 17:42:50.071 T:7724    debug <general>: AddOnLog: inputstream.adaptive: [Repr. chooser] Current average bandwidth: 46353936 bit/s (filtered to 41718542 bit/s)
+2024-06-01 17:42:50.231 T:5496    debug <general>: [Warning] CGUITextureManager::GetTexturePath: could not find texture '-'
+2024-06-01 17:42:50.238 T:2360     info <general>: Skipped 16 duplicate messages..
+2024-06-01 17:42:50.238 T:2360    debug <general>: AddOnLog: inputstream.adaptive: EnableStream(1005: false)
+2024-06-01 17:42:50.317 T:8492    debug <general>: AddOnLog: inputstream.adaptive: [AS-0] Download finished: https://livetv.com/dash/tvid-video=6000000-1030353902208.dash (downloaded 1437587 byte, speed 4622466.00 byte/s)
+2024-06-01 17:42:50.317 T:8492    debug <general>: CurlFile::XFILE::CCurlFile::Open - <https://livetv.com/dash/tvid-video=6000000-1030353903360.dash>
+2024-06-01 17:42:50.325 T:4808    debug <general>: AddOnLog: inputstream.adaptive: [Repr. chooser] Current average bandwidth: 44479095 bit/s (filtered to 40031185 bit/s)
+2024-06-01 17:42:50.427 T:8492    debug <general>: AddOnLog: inputstream.adaptive: [AS-0] Download finished: https://livetv.com/dash/tvid-video=6000000-1030353903360.dash (downloaded 1484629 byte, speed 13620449.00 byte/s)
+2024-06-01 17:42:50.427 T:8492    debug <general>: CurlFile::XFILE::CCurlFile::Open - <https://livetv.com/dash/tvid-video=6000000-1030353904512.dash>
+2024-06-01 17:42:50.462 T:7384  warning <general>: CVideoPlayerVideo::OutputPicture - timeout waiting for buffer
+2024-06-01 17:42:50.530 T:8492    debug <general>: AddOnLog: inputstream.adaptive: [AS-0] Download finished: https://livetv.com/dash/tvid-video=6000000-1030353904512.dash (downloaded 1422003 byte, speed 13805854.00 byte/s)
+2024-06-01 17:42:50.531 T:8492    debug <general>: CurlFile::XFILE::CCurlFile::Open - <https://livetv.com/dash/tvid-video=6000000-1030353905664.dash>
+2024-06-01 17:42:50.636 T:8492    debug <general>: AddOnLog: inputstream.adaptive: [AS-0] Download finished: https://livetv.com/dash/tvid-video=6000000-1030353905664.dash (downloaded 1438531 byte, speed 13700295.00 byte/s)
+2024-06-01 17:42:50.636 T:8492    debug <general>: CurlFile::XFILE::CCurlFile::Open - <https://livetv.com/dash/tvid-video=6000000-1030353906816.dash>
+2024-06-01 17:42:50.726 T:8824  warning <general>: Setting most video properties through ListItem.setInfo() is deprecated and might be removed in future Kodi versions. Please use the respective setter in InfoTagVideo.
+2024-06-01 17:42:50.741 T:8492     info <general>: Skipped 52 duplicate messages..
+2024-06-01 17:42:50.741 T:8492    debug <general>: AddOnLog: inputstream.adaptive: [AS-0] Download finished: https://livetv.com/dash/tvid-video=6000000-1030353906816.dash (downloaded 1452722 byte, speed 13968480.00 byte/s)
+2024-06-01 17:42:50.756 T:8824  warning <general>: Setting most video properties through ListItem.setInfo() is deprecated and might be removed in future Kodi versions. Please use the respective setter in InfoTagVideo.
+2024-06-01 17:42:50.759 T:8824     info <CAddonSettings[0@plugin.video.livetv]>: Skipped 20 duplicate messages..
+2024-06-01 17:42:50.759 T:8824    debug <CAddonSettings[0@plugin.video.livetv]>: trying to load setting definitions from old format...
+2024-06-01 17:42:50.825 T:6220    debug <general>: ActiveAE::SyncStream - average error 29.051392, last average error: 851.814971
+2024-06-01 17:42:50.933 T:7384     info <general>: CDVDVideoCodecFFmpeg::CDropControl: calculated diff time: 20000
+2024-06-01 17:42:50.938 T:5496    debug <general>: [Warning] CGUITextureManager::GetTexturePath: could not find texture '-'
+2024-06-01 17:42:50.938 T:6220    debug <general>: ActiveAE::SyncStream - average error of -6.786784, start adjusting
+2024-06-01 17:42:50.939 T:6220    debug <general>: ActiveAE::SyncStream - average error -0.015951 below threshold of 30.000000
+2024-06-01 17:42:51.915 T:8824    debug <CAddonSettings[0@plugin.video.livetv]>: trying to load setting definitions from old format...
+2024-06-01 17:42:52.212 T:7724    debug <general>: AddOnLog: inputstream.adaptive: [Repr. chooser] Current average bandwidth: 73684011 bit/s (filtered to 66315609 bit/s)
+2024-06-01 17:42:52.296 T:5496    debug <general>: [Warning] CGUITextureManager::GetTexturePath: could not find texture '-'
+2024-06-01 17:42:53.151 T:7384     info <general>: Skipped 1 duplicate messages..
+2024-06-01 17:42:53.151 T:7384    debug <general>: CPtsTracker: detected pattern of length 1: 20000.00, frameduration: 20000.000000
+2024-06-01 17:42:53.270 T:5496     info <general>: Stopping the application...
+2024-06-01 17:42:53.270 T:5496     info <general>: Stopping player
+2024-06-01 17:42:53.270 T:5496     info <general>: CVideoPlayer::CloseFile()
+2024-06-01 17:42:53.270 T:5496    debug <general>: CRenderManager::DeleteRenderer - deleting renderer
+2024-06-01 17:42:53.270 T:5496    debug <general>: DX::DeviceResources::SetHdrColorSpace: DXGI SetColorSpace1 RGB_FULL_G22_NONE_P709 success
+2024-06-01 17:42:53.270 T:5496     info <general>: VideoPlayer: waiting for threads to exit
+2024-06-01 17:42:53.273 T:2360     info <general>: CVideoPlayer::OnExit()
+2024-06-01 17:42:53.273 T:2360    debug <general>: CVideoPlayer: updating file item stream details with available streams
+2024-06-01 17:42:53.274 T:2360     info <general>: Closing stream player 1
+2024-06-01 17:42:53.274 T:2360    debug <general>: AddOnLog: inputstream.adaptive: EnableStream(1003: false)
+2024-06-01 17:42:53.274 T:2360     info <general>: Waiting for audio thread to exit
+2024-06-01 17:42:53.334 T:2444     info <general>: thread end: CVideoPlayerAudio::OnExit()
+2024-06-01 17:42:53.334 T:2444    debug <general>: Thread VideoPlayerAudio 2444 terminating
+2024-06-01 17:42:53.334 T:2360     info <general>: Closing audio device
+2024-06-01 17:42:53.350 T:2360    debug <general>: CDVDAudio::Flush - flush audio stream
+2024-06-01 17:42:53.351 T:6220    debug <general>: CActiveAE::DiscardStream - audio stream deleted
+2024-06-01 17:42:53.351 T:6220    debug <general>: CActiveAE::ClearDiscardedBuffers - buffer pool deleted
+2024-06-01 17:42:53.358 T:7572     info <general>: Skipped 2 duplicate messages..
+2024-06-01 17:42:53.358 T:7572     info <general>: CActiveAESink::OpenSink - initialize sink
+2024-06-01 17:42:53.358 T:7572    debug <general>: CAESinkDirectSound::Deinitialize: Cleaning up
+2024-06-01 17:42:53.358 T:2360     info <general>: Deleting audio codec
+2024-06-01 17:42:53.359 T:2360     info <general>: Closing stream player 2
+2024-06-01 17:42:53.359 T:2360    debug <general>: AddOnLog: inputstream.adaptive: EnableStream(1001: false)
+2024-06-01 17:42:53.359 T:2360     info <general>: waiting for video thread to exit
+2024-06-01 17:42:53.366 T:7384     info <general>: thread end: video_thread
+2024-06-01 17:42:53.366 T:7384    debug <general>: Thread VideoPlayerVideo 7384 terminating
+2024-06-01 17:42:53.367 T:2360     info <general>: deleting video codec
+2024-06-01 17:42:53.372 T:2360     info <general>: Closing stream player 3
+2024-06-01 17:42:53.372 T:2360    debug <general>: AddOnLog: inputstream.adaptive: EnableStream(1005: false)
+2024-06-01 17:42:53.373 T:2360    debug <general>: AddOnLog: inputstream.adaptive: Close()
+2024-06-01 17:42:53.373 T:2360    debug <general>: AddOnLog: inputstream.adaptive: CSession::~CSession()
+2024-06-01 17:42:53.375 T:2360    debug <general>: AddOnLog: inputstream.adaptive: CWVCencSingleSampleDecrypter::CloseSessionId: Closing widevine session ID: 0C7DC727B028A126EF485871C4414A19
+2024-06-01 17:42:53.375 T:2360    debug <general>: AddOnLog: inputstream.adaptive: CDMMessage: 4 arrived!
+2024-06-01 17:42:53.375 T:2360    debug <general>: AddOnLog: inputstream.adaptive: CWVCencSingleSampleDecrypter::CloseSessionId: Widevine session ID 0C7DC727B028A126EF485871C4414A19 closed
+2024-06-01 17:42:53.375 T:2360    error <general>: AddOnLog: inputstream.adaptive: Instances: 1
+2024-06-01 17:42:53.385 T:2360    debug <general>: SECTION:UnloadDll(C:\Kodi\portable_data\addons\inputstream.adaptive\inputstream.adaptive.dll)
+2024-06-01 17:42:53.385 T:2360     info <general>: ADDON: Dll Destroyed - InputStream Adaptive
+2024-06-01 17:42:53.385 T:2360    debug <general>: Thread VideoPlayer 2360 terminating
+2024-06-01 17:42:53.385 T:5496     info <general>: VideoPlayer: finished waiting
+2024-06-01 17:42:53.385 T:5496     info <general>: CVideoPlayer::CloseFile()
+2024-06-01 17:42:53.385 T:5496     info <general>: VideoPlayer: waiting for threads to exit
+2024-06-01 17:42:53.385 T:5496     info <general>: VideoPlayer: finished waiting
+2024-06-01 17:42:53.386 T:5496    debug <general>: Radio UECP (RDS) Processor - delete CDVDRadioRDSData::~CDVDRadioRDSData
+2024-06-01 17:42:53.386 T:5496    debug <general>: Audio ID3 tag processor - delete CVideoPlayerAudioID3::~CVideoPlayerAudioID3
+2024-06-01 17:42:53.402 T:7572    debug <general>: CActiveAESink::OpenSink - trying to open device DIRECTSOUND:default
+2024-06-01 17:42:53.407 T:7572    debug <general>: CAESinkDirectSound::Initialize: Using Window handle: 0x1000c
+2024-06-01 17:42:53.409 T:7572    debug <general>: CAESinkDirectSound::Initialize: secondary buffer created
+2024-06-01 17:42:53.410 T:7572    debug <general>: CAESinkDirectSound::Initialize: Initializing DirectSound with the following parameters:
+2024-06-01 17:42:53.410 T:7572    debug <general>:   Audio Device    : Speakers (High Definition Audio Device)
+2024-06-01 17:42:53.410 T:7572    debug <general>:   Sample Rate     : 44100
+2024-06-01 17:42:53.410 T:7572    debug <general>:   Sample Format   : AE_FMT_FLOAT
+2024-06-01 17:42:53.410 T:7572    debug <general>:   Bits Per Sample : 32
+2024-06-01 17:42:53.410 T:7572    debug <general>:   Valid Bits/Samp : 32
+2024-06-01 17:42:53.410 T:7572    debug <general>:   Channel Count   : 2
+2024-06-01 17:42:53.410 T:7572    debug <general>:   Block Align     : 8
+2024-06-01 17:42:53.410 T:7572    debug <general>:   Avg. Bytes Sec  : 352800
+2024-06-01 17:42:53.410 T:7572    debug <general>:   Samples/Block   : 32
+2024-06-01 17:42:53.410 T:7572    debug <general>:   Format cBSize   : 22
+2024-06-01 17:42:53.410 T:7572    debug <general>:   Channel Layout  : FL, FR
+2024-06-01 17:42:53.410 T:7572    debug <general>:   Channel Mask    : 3
+2024-06-01 17:42:53.410 T:7572    debug <general>:   Frames          : 661
+2024-06-01 17:42:53.410 T:7572    debug <general>:   Frame Size      : 8
+2024-06-01 17:42:53.410 T:7572    debug <general>: CActiveAESink::OpenSink - DIRECTSOUND Initialized:
+2024-06-01 17:42:53.410 T:7572    debug <general>:   Output Device : default
+2024-06-01 17:42:53.410 T:7572    debug <general>:   Sample Rate   : 44100
+2024-06-01 17:42:53.410 T:7572    debug <general>:   Sample Format : AE_FMT_FLOAT
+2024-06-01 17:42:53.410 T:7572    debug <general>:   Channel Count : 2
+2024-06-01 17:42:53.410 T:7572    debug <general>:   Channel Layout: FL, FR
+2024-06-01 17:42:53.410 T:7572    debug <general>:   Frames        : 661
+2024-06-01 17:42:53.410 T:7572    debug <general>:   Frame Size    : 8
+2024-06-01 17:42:53.411 T:6220    debug <general>: CActiveAE::ClearDiscardedBuffers - buffer pool deleted
+2024-06-01 17:42:53.473 T:7572     info <general>: Skipped 1 duplicate messages..
+2024-06-01 17:42:53.473 T:7572    debug <general>: CAESinkDirectSound::CheckPlayStatus: Resuming Playback
+2024-06-01 17:42:53.520 T:6752    debug <general>: CSaveFileState::DoWork - Saving file state for video item https://livetv.com/tvid.mpd?token=tokenid
+2024-06-01 17:42:53.521 T:6752    debug <general>: CSaveFileState::DoWork - Marking video item https://livetv.com/tvid.mpd?token=tokenid as watched
+2024-06-01 17:42:53.536 T:6752    debug <general>: CApplicationPlayerCallback::OnPlayBackStopped: CApplication::OnPlayBackStopped
+2024-06-01 17:42:53.538 T:5496     info <general>: Storing total System Uptime
+2024-06-01 17:42:53.539 T:5496     info <general>: Saving settings
+2024-06-01 17:42:53.541 T:5496     info <general>: Saving skin settings
+2024-06-01 17:42:53.541 T:5496     info <general>: Stopping all
+2024-06-01 17:42:53.542 T:6752    debug <general>: Thread JobWorker 6752 terminating (autodelete)
+2024-06-01 17:42:53.546 T:7428    debug <general>: Thread JobWorker 7428 terminating (autodelete)
+2024-06-01 17:42:53.548 T:7372    debug <general>: Thread JobWorker 7372 terminating (autodelete)
+2024-06-01 17:42:53.548 T:5496    debug <general>: CNetworkBase::NetworkMessage - Signaling network services to stop
+2024-06-01 17:42:53.548 T:5496     info <general>: ES: Stopping event server
+2024-06-01 17:42:53.548 T:5496     info <general>: [WS-Discovery]: terminating
+2024-06-01 17:42:53.548 T:5496    debug <general>: CNetworkBase::NetworkMessage - Waiting for network services to stop
+2024-06-01 17:42:53.845 T:1140     info <general>: ES: UDP Event server stopped
+2024-06-01 17:42:53.845 T:2292    debug <general>: Thread TCPServer 2292 terminating
+2024-06-01 17:42:53.845 T:1140    debug <general>: Thread EventServer 1140 terminating
+2024-06-01 17:42:53.845 T:5496    debug <general>: CServiceAddonManager: stopping plugin.video.livetv.
+2024-06-01 17:42:54.032 T:7796    debug <general>: Python interpreter interrupted by user
+2024-06-01 17:42:54.032 T:5496    debug <general>: CServiceAddonManager: stopping service.xbmc.versioncheck.
+2024-06-01 17:42:54.032 T:5496     info <general>: CServiceAddonManager: failed to stop service.xbmc.versioncheck (may have ended)
+2024-06-01 17:42:54.032 T:7796    debug <general>: Thread LanguageInvoker 7796 terminating
+2024-06-01 17:42:54.032 T:5496    debug <general>: CPythonInvoker(2, C:\Kodi\portable_data\addons\plugin.video.livetv\default.py): trigger Monitor abort request
+2024-06-01 17:42:59.034 T:5496    error <general>: CPythonInvoker(2, C:\Kodi\portable_data\addons\plugin.video.livetv\default.py): script didn't stop in 5 seconds - let's kill it
+2024-06-01 17:42:59.034 T:8824    debug <general>: CPythonInvoker(2, C:\Kodi\portable_data\addons\plugin.video.livetv\default.py): script aborted
+2024-06-01 17:42:59.034 T:8824    debug <general>: CPythonInvoker::onExecutionDone(2, C:\Kodi\portable_data\addons\plugin.video.livetv\default.py)
+2024-06-01 17:42:59.036 T:6220    debug <general>: Thread ActiveAE 6220 terminating
+2024-06-01 17:42:59.045 T:7572    debug <general>: Thread AESink 7572 terminating
+2024-06-01 17:42:59.045 T:5496    debug <general>: CAESinkDirectSound::Deinitialize: Cleaning up
+2024-06-01 17:42:59.060 T:8824    debug <general>: Python interpreter interrupted by user
+2024-06-01 17:42:59.061 T:8824    debug <general>: Thread LanguageInvoker 8824 terminating
+2024-06-01 17:42:59.064 T:5496     info <general>: Application stopped
+2024-06-01 17:42:59.264 T:9128    debug <general>: Thread PeripEventScan 9128 terminating
+2024-06-01 17:42:59.264 T:2660    debug <general>: Thread PeripBusUSB 2660 terminating
+2024-06-01 17:42:59.264 T:7556    debug <general>: Thread PeripBusCEC 7556 terminating
+2024-06-01 17:42:59.264 T:4852    debug <general>: Thread PeripBusAddon 4852 terminating
+2024-06-01 17:42:59.483 T:5496     info <general>: AddOnLog: peripheral.joystick: Disabling joystick interface "directinput"
+2024-06-01 17:42:59.483 T:5496     info <general>: AddOnLog: peripheral.joystick: Disabling joystick interface "xinput"
+2024-06-01 17:42:59.483 T:5496    debug <general>: SECTION:UnloadDll(C:\Kodi\addons\peripheral.joystick\peripheral.joystick.dll)
+2024-06-01 17:42:59.483 T:5496     info <general>: ADDON: Dll Destroyed - Joystick Support
+2024-06-01 17:42:59.483 T:5496     info <general>: unload skin
+2024-06-01 17:42:59.484 T:5496    debug <general>: FreeVisualisation() done
+2024-06-01 17:42:59.485 T:5496    debug <general>: ------ Window Deinit () ------
+2024-06-01 17:42:59.485 T:5496    debug <general>: ------ Window Deinit (Pointer.xml) ------
+2024-06-01 17:42:59.487 T:5496    debug <general>: CTextureBundleXBT::CloseBundle - Closed bundle
+2024-06-01 17:42:59.490 T:5496     info <general>: Unloaded skin
+2024-06-01 17:42:59.490 T:5496    debug <general>: DX::DeviceResources::ReleaseBackBuffer: release buffers.
+2024-06-01 17:42:59.833 T:5496     info <general>: unload sections
+2024-06-01 17:42:59.834 T:6148    debug <general>: Thread CWin32PowerStateWorker 6148 terminating
+2024-06-01 17:42:59.834 T:2576    debug <general>: Thread Timer 2576 terminating
+2024-06-01 17:42:59.835 T:5496    debug <general>: CWinSystemWin32::RestoreDesktopResolution: restoring desktop resolution for 'Generic Non-PnP Monitor #1'.
+2024-06-01 17:42:59.835 T:8296    debug <general>: Thread RemoteControl 8296 terminating
+2024-06-01 17:42:59.837 T:6396    debug <general>: Thread Announce 6396 terminating
+2024-06-01 17:42:59.838 T:5496     info <general>: Exiting the application...
